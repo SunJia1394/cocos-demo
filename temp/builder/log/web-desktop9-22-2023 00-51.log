@@ -1,0 +1,619 @@
+2023-9-22 00:51:06-debug: Start build task, options:{"name":"NewProject_1","server":"","platform":"web-desktop","buildPath":"project://build","debug":false,"md5Cache":false,"skipCompressTexture":false,"sourceMaps":false,"polyfills":{"asyncFunctions":true},"experimentalEraseModules":false,"startSceneAssetBundle":false,"bundleConfigs":[],"useBuiltinServer":false,"mainBundleIsRemote":false,"mainBundleCompressionType":"merge_dep","useSplashScreen":true,"bundleCommonChunk":false,"packAutoAtlas":true,"startScene":"7c3e7fab-7b1e-4865-ba84-3cf81b48b9fb","outputName":"web-desktop","taskName":"web-desktop","scenes":[{"url":"db://assets/scene/main.scene","uuid":"7c3e7fab-7b1e-4865-ba84-3cf81b48b9fb"},{"url":"db://live2d_cubismsdk_cocoscreator/resources/Samples/Animation/Animation.scene","uuid":"77311d7e-de76-4497-a692-0d24eb0e1dcf","bundle":"db://live2d_cubismsdk_cocoscreator/resources"},{"url":"db://live2d_cubismsdk_cocoscreator/resources/Samples/LookAt/LookAt.scene","uuid":"52ef81e4-e119-460f-8a59-0df31839440e","bundle":"db://live2d_cubismsdk_cocoscreator/resources"},{"url":"db://live2d_cubismsdk_cocoscreator/resources/Samples/MultipleModels/MultipleModels.scene","uuid":"af058799-7673-4999-8cbf-0d5eceafc5a4","bundle":"db://live2d_cubismsdk_cocoscreator/resources"},{"url":"db://live2d_cubismsdk_cocoscreator/resources/Samples/PerspectiveCamera/PerspectiveCamera.scene","uuid":"041a08b3-0325-469d-b432-0423ed5fafc8","bundle":"db://live2d_cubismsdk_cocoscreator/resources"},{"url":"db://live2d_cubismsdk_cocoscreator/resources/Samples/Raycasting/Raycasting.scene","uuid":"160bbae6-e0be-4435-9b1b-751df44fb7e4","bundle":"db://live2d_cubismsdk_cocoscreator/resources"},{"url":"db://live2d_cubismsdk_cocoscreator/resources/Samples/OriginalWorkflow/Expression/Expression.scene","uuid":"42d255fa-7898-4726-9a1e-7ef6d643ed4e","bundle":"db://live2d_cubismsdk_cocoscreator/resources"}],"packages":{"web-desktop":{"useWebGPU":false,"resolution":{"designWidth":1280,"designHeight":960},"cullEngineAsmJsModule":false,"__version__":"1.0.1"},"engine":{"cleanupImageCache":"inheritProjectSetting","__version__":"1.0.7"},"adsense-h5g-plugin":{"enableAdsense":false,"enableTestAd":false,"__version__":"1.0.1","AFPHostPropertyCode":"ca-host-pub-5396158963872751","AFPHostDomain":"douyougame.com","otherAFPHostPropertyCode":"","otherAFPDomain":""},"cocos-service":{"configID":"7c7356","services":[],"__version__":"3.0.7"}},"__version__":"1.3.7","buildMode":"normal","logDest":"project://temp/builder/log/web-desktop9-22-2023 00-51.log"}
+2023-9-22 00:51:06-debug: Build with Cocos Creator 3.8.1
+2023-9-22 00:51:06-debug: =================================== build Task (web-desktop) Start ================================
+2023-9-22 00:51:06-debug: cocos-service:(onBeforeBuild) start...0%
+2023-9-22 00:51:06-debug: // ---- build task cocos-service：onBeforeBuild ----
+2023-9-22 00:51:06-debug: scene:(onBeforeBuild) start...2%
+2023-9-22 00:51:06-debug: // ---- build task scene：onBeforeBuild ----
+2023-9-22 00:51:06-debug: cocos-service:(onBeforeBuild) in 205 ms ✓2%
+2023-9-22 00:51:06-debug: // ---- build task cocos-service：onBeforeBuild ---- (205ms)
+2023-9-22 00:51:10-debug: Start lock asset db...4%
+2023-9-22 00:51:10-log: Asset DB is paused with build!
+2023-9-22 00:51:10-debug: Query all assets info in project
+2023-9-22 00:51:10-debug: scene:(onBeforeBuild) in 4089 ms ✓4%
+2023-9-22 00:51:10-debug: // ---- build task scene：onBeforeBuild ---- (4089ms)
+2023-9-22 00:51:10-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-9-22 00:51:10-debug:   Number of all scripts: 120
+2023-9-22 00:51:10-debug:   Number of other assets: 654
+2023-9-22 00:51:10-debug: web-desktop:(onAfterInit) start...4%
+2023-9-22 00:51:10-debug: // ---- build task web-desktop：onAfterInit ----
+2023-9-22 00:51:10-debug:   Number of all scenes: 7
+2023-9-22 00:51:10-debug: cocos-service:(onAfterInit) start...7%
+2023-9-22 00:51:10-debug: // ---- build task cocos-service：onAfterInit ----
+2023-9-22 00:51:10-debug: web-desktop:(onAfterInit) in 3 ms ✓7%
+2023-9-22 00:51:10-debug: // ---- build task web-desktop：onAfterInit ---- (3ms)
+2023-9-22 00:51:10-debug: engine:(onAfterInit) start...9%
+2023-9-22 00:51:10-debug: // ---- build task engine：onAfterInit ----
+2023-9-22 00:51:10-debug: cocos-service:(onAfterInit) in 164 ms ✓9%
+2023-9-22 00:51:10-debug: // ---- build task cocos-service：onAfterInit ---- (164ms)
+2023-9-22 00:51:10-debug: adsense-h5g-plugin:(onBeforeBundleInit) start...11%
+2023-9-22 00:51:10-debug: engine:(onAfterInit) in 5 ms ✓11%
+2023-9-22 00:51:10-debug: // ---- build task engine：onAfterInit ---- (5ms)
+2023-9-22 00:51:10-debug: // ---- build task adsense-h5g-plugin：onBeforeBundleInit ----
+2023-9-22 00:51:10-debug: [adsense-h5g-plugin] remove script success
+2023-9-22 00:51:10-debug: // ---- build task adsense-h5g-plugin：onBeforeBundleInit ---- (4ms)
+2023-9-22 00:51:10-debug: adsense-h5g-plugin:(onBeforeBundleInit) in 4 ms ✓11%
+2023-9-22 00:51:10-debug: Init all bundles start...11%
+2023-9-22 00:51:10-debug: Num of bundles: 3...11%
+2023-9-22 00:51:10-debug: reload all scripts.
+2023-9-22 00:51:10-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-9-22 00:51:10-groupCollapsed: Invalidate all modules
+2023-9-22 00:51:10-debug: Unregister DebugViewRuntimeControl
+2023-9-22 00:51:10-debug: Unregister CubismMeshPrimitive
+2023-9-22 00:51:10-debug: Unregister CubismPart
+2023-9-22 00:51:10-debug: Unregister CubismUpdateController
+2023-9-22 00:51:10-debug: Unregister CubismParameterStore
+2023-9-22 00:51:10-debug: Unregister CubismDrawable
+2023-9-22 00:51:10-debug: Unregister CubismMoc
+2023-9-22 00:51:10-debug: Unregister CubismModel
+2023-9-22 00:51:10-debug: Unregister CubismEyeBlinkParameter
+2023-9-22 00:51:10-debug: Unregister CubismEyeBlinkController
+2023-9-22 00:51:10-debug: Unregister CubismAutoEyeBlinkInput
+2023-9-22 00:51:10-debug: Unregister CubismDisplayInfoParameterName
+2023-9-22 00:51:10-debug: Unregister CubismDisplayInfoPartName
+2023-9-22 00:51:10-debug: Unregister CubismHitDrawable
+2023-9-22 00:51:10-debug: Unregister CubismMotionApplier
+2023-9-22 00:51:10-debug: Unregister CubismParametersInspector
+2023-9-22 00:51:10-debug: Unregister CubismPartsInspector
+2023-9-22 00:51:10-debug: Unregister SerializableExpressionParameter
+2023-9-22 00:51:10-debug: Unregister CubismExpressionList
+2023-9-22 00:51:10-debug: Unregister CubismPlayingExpression
+2023-9-22 00:51:10-debug: Unregister CubismExpressionController
+2023-9-22 00:51:10-debug: Unregister CubismHarmonicMotionParameter
+2023-9-22 00:51:10-debug: Unregister CubismHarmonicMotionController
+2023-9-22 00:51:10-debug: Unregister SerializableExpressionParameter
+2023-9-22 00:51:10-debug: Unregister CubismRenderer
+2023-9-22 00:51:10-debug: Unregister CubismRenderController
+2023-9-22 00:51:10-debug: Unregister CubismMaskTexture
+2023-9-22 00:51:10-debug: Unregister CubismMouthParameter
+2023-9-22 00:51:10-debug: Unregister CubismMouthController
+2023-9-22 00:51:10-debug: Unregister SerializableMeta
+2023-9-22 00:51:10-debug: Unregister SerializableCurve
+2023-9-22 00:51:10-debug: Unregister SerializableUserData
+2023-9-22 00:51:10-debug: Unregister CubismMotion3Json
+2023-9-22 00:51:10-debug: Unregister CubismSerializableKeyFrame
+2023-9-22 00:51:10-debug: Unregister CubismSerializableCurve
+2023-9-22 00:51:10-debug: Unregister CubismFadeMotionData
+2023-9-22 00:51:10-debug: Unregister CubismFadeMotionList
+2023-9-22 00:51:10-debug: Unregister CubismFadeController
+2023-9-22 00:51:10-debug: Unregister CubismPhysicsInput
+2023-9-22 00:51:10-debug: Unregister CubismPhysicsNormalizationTuplet
+2023-9-22 00:51:10-debug: Unregister CubismPhysicsNormalization
+2023-9-22 00:51:10-debug: Unregister CubismPhysicsOutput
+2023-9-22 00:51:10-debug: Unregister CubismPhysicsParticle
+2023-9-22 00:51:10-debug: Unregister CubismPhysicsSubRig
+2023-9-22 00:51:10-debug: Unregister CubismPhysicsRig
+2023-9-22 00:51:10-debug: Unregister CubismParameter
+2023-9-22 00:51:10-debug: Unregister CubismPosePart
+2023-9-22 00:51:10-debug: Unregister CubismPoseData
+2023-9-22 00:51:10-debug: Unregister CubismPoseController
+2023-9-22 00:51:10-debug: Unregister CubismUserDataBody
+2023-9-22 00:51:10-debug: Unregister CubismUserDataTag
+2023-9-22 00:51:10-debug: Unregister CubismMaskCommandBuffer
+2023-9-22 00:51:10-debug: Unregister CubismMaskController
+2023-9-22 00:51:10-debug: Unregister CubismPhysicsController
+2023-9-22 00:51:10-debug: Unregister CubismLookParameter
+2023-9-22 00:51:10-debug: Unregister CubismLookController
+2023-9-22 00:51:10-debug: Unregister CubismLookTargetBehaviour
+2023-9-22 00:51:10-debug: Unregister CubismFadeStateObserver
+2023-9-22 00:51:10-debug: Unregister CubismAudioMouthInput
+2023-9-22 00:51:10-debug: Unregister CubismAutoMouthInput
+2023-9-22 00:51:10-debug: Unregister CubismRaycaster
+2023-9-22 00:51:10-debug: Unregister CubismExpressionPreview
+2023-9-22 00:51:10-debug: Unregister RaycastHitDisplay
+2023-9-22 00:51:10-debug: Unregister Billboarder
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/36/36b04db54f493dccd469020c28350f1cb8dba01a.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/1f/1fcf4c99c30afe19766d074d649c3961aeae055d.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/36/36897b7035a7c9a2d50b7a8a0d48bc2e5fc78e65.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/67/677e3eebe236070eb682b88db699933829ed24ce.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/0b/0bad21982525b097a506492a6a68f64dce66cb54.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/26/26bd270a9f13e8897c501c5dde87b2d977121cfa.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/56/56de6bbcb86d63aaa2c46899c351158fdec230d9.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/a1/a14d93ff4044258c1dac757fa45902673260cfad.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/d1/d17ac418c690b31975bc5afce49d8b04ce102005.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/6f/6ff46f65aebd9f70ec455a5d0c93c6c74f55cfdb.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/a2/a26a7a9dfd4ed05fe5dea1af1365b78f15277fb2.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/d0/d053bb36d3e7ecbdcab4901b9c98808c16191271.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/e1/e12c567c69b75b75391399d0a583e75c18cf9a07.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/0f/0f8e0e48790facb8607d180a83b7ccb25e6cdd07.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/5b/5b3361baf77d48a46a01be607171d76159be5361.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/d2/d2fc3ecc4c8a9c71a71ba0fea3875efdd7db0d10.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/98/986bbd0d91324dcdc508fc063687b1dc7a902c92.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/d9/d9ef6d6e0c0c0e88d84d15ac1b7ea2dd26303d69.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/57/57f59800635393d7d7e183e83235de4e1f5abd6c.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/e6/e69e2bb07ff98fdc91a91f5feedd4e8189adc506.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/df/df24b13b4a383a57f7d4f41a08a7395786996e4f.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/a0/a0d063530de23ddade53e1a935bf64c81277c061.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/38/38c0f2b3637d786f2289c273a64d2261f3ca9c55.js'
+2023-9-22 00:51:10-debug: Unregister CubismExpressionData
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/1f/1f2cf78fe5d93e61f70f49ed6aecfa0c439d3418.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/ba/ba698b7ba8232ccef62383968891cb0106f65d46.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/55/555b87b851b985dbfae63c74b576ae6eaeb24d9e.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/64/649801953ae17f656a6a2d4ee3a8f53d19c16e14.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/66/669ba6ecb43e939666909c1d9f38456832ce6cf9.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/cc/ccc66cdb1f952565675297c9fae98e088599add7.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/d7/d77b4888a0064ee5b73f374a2a90329ea1a5a411.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/a5/a58545ecea8f539e6120273d3a8d208f55d0839d.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/ad/ad2b1cc3a2dc659ce016fe6a8c0058bb491c22d2.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/85/85b8e2603ce2169a4eaa7c9c7eb7a8e219b8a40f.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/d5/d518fc586a70e5f7c410635bc553b6a249cbf8ec.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/ba/baa346f03313ba03c7ccb4799d6348a287bca8c5.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/5f/5f70c3dbfe9523fb89c09c4a93a9796726d15a1e.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/6e/6e348135987b7a54cafccde975081e63d006f021.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/06/066fde8bd73c063716a6a325b94fe0df8f847a6f.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/a0/a07126dad4faf9a5eb0c16cfc0202ac0be34d9ba.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/d7/d7c702d61b743ac489bb19a4b7417642f491f295.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/0b/0b03c5609cd82d0e833672e2f9990386c4d745fc.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/8f/8fc6f36b7da9aebe08b25ab4550e7a6e8a378b57.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/89/899050eeaa28c7051f275ea49f95de562b1eefe4.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/cf/cfc4b3f2ee2e7df2a16d1a0abbf84be54b93ad77.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/04/048ee00943958c6419449a301f5f7adc1f9759c0.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/2e/2e68e0d8cfd31e747f01f8117aaa7d3ba1ba6e5c.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/28/288085b2718ef171496f589ec2eacc5dc9f2fbe7.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/d5/d524c7a848c617409dd9b3b2921785bda1bdaec6.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/42/4245dbad6e32c53fc3df5a90ef541503c15c0087.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/8b/8bf65210d83ebb6574b21521cdb7552d01c77577.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/06/06b7b48fca2d87620022922fe65c40e9a3f29b28.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/9e/9e509cf928c852f36af041d60cb209feef6da763.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/04/0402f79fed3f5e4132f64888fe1fc40134d78ab8.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/d2/d233bfb3ad08389c82b11d29b25ac34560a016b0.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/90/90e710c63171abf684b12401b402a4f5245f4062.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/54/54cff20797e9d36ae3bce712e1403d79989cc8a5.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/9c/9c2f6d5a2e869113026f1a9054a24344e48e5cea.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/b3/b3e11c38317546be04355e2a3c3294ada5add50c.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/81/81cc974cd2899671a948b115e0a1655df54ef80e.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/54/54f9064a26c9c60e3588dba063c1e44418f5119f.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/b3/b336377a293945b686c775fb7ca7d26ca8f15d52.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/ce/ce5237e11a30b23ee2d526e9a9d99b228a8ab6c8.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/2a/2ac70eee3f24ddd97222d70d9d4b3ab398cf09e6.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/49/496fc852a231383300fdf5418dfad6e2c37c6b17.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/ba/ba9432fc0201c1ba500e6d50598d6d252e4284ee.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/cd/cd70ce8a181c78386c8de4bff1dd33ebbb5b2542.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/ce/ce5e82bb7887d63b2c3b19dd855f619dbf01914e.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/22/224d19cd42e6af1b6fee1c7118a00b7d7e56493f.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/a4/a49463436f75c84187db1370b7ec94f38331b00b.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/aa/aa0e5d9d6e30b6a8fedf45ef64dde76aa85bee26.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/82/8228c057c922409f83402d8e0b1f7de1227072cd.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/7b/7b17a696a318963485c931770c50f90cc95be232.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/58/587cd27482bc4054b228718208f48a6d8c24de83.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/f2/f29910ebaba5a686006d237d0bff62ac66b44e59.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/af/af02e56b850b17bed378d94a853e3ef33f37f30b.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/9a/9ae01c597ca508f10a66bfbbd9e72d53f623a53b.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/56/5641b7b01381bd916ccdd8ffe605f15f762948a3.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/47/4788ce92a467267518441493f8b87245fb564c60.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/8d/8d1f2770280bea31f2224a417a98368cdd841705.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/0e/0ebb542e6fd5ed5e346519016b65487ffbb7e30f.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/60/60a0add76475dd548db500923dab46608ce31e23.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/94/9417706d30d1b094aaeea2af4ae217314f98f2a5.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/b8/b8fa0b395fb77349dac7c238f462a3677afaa464.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/79/790f9a89328c0337b93c1377f3da0c3748a3b0d6.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/8e/8e89893d82afc5b3431dea8bc836969fd5075328.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/85/85712daa244a2d86d1caaf8999aa7d43efc36741.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/43/4327859f835a3fc71958bd8834064da95c2caf6f.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/36/367b822308ad764dd14b7dd673949603a1a59890.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/e0/e0a060161ea2f801ca2f90a675bdf7dc3580df47.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/b4/b48c5d524762ca280649c055e384f15981d1308a.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/8b/8b18839e2ee4d4029f52f411a2c5958d2938638e.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/70/705fb44d14fedca2234f3dd46362c7a6b26e1830.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/63/633439ab79117c22c962eecd45f546fcd76c3b47.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/b3/b394b6f67e703d9cb9c12f192842084fa2d140bb.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/52/5238bbfbd9863c5119b28d301c528533d2b0a727.js'
+2023-9-22 00:51:10-debug: Unregister CubismRaycastable
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/af/afda9b53d7e0b820380aa58d7bcf00e4a7f8042b.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/1d/1d8cfae0107ec2289c238b6296cd5bb43cd7093e.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/56/5649b21e16d732255cc37852a735c5671d4e6885.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/56/568b18841f0846cf910ff84e2d954a8cbde99496.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/a1/a11459b551d50782bac7400c7656da671ef0cff6.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/08/08cbb0987ba7e9787db1d8abc1e0e5e957bc86c1.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/cd/cd73e964f5411aa8a2bcd277dc8186e639654801.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/76/76d14e0851fbf7ea714f78be6073b8d920c92be5.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/1b/1b37302cb23f98639b51bd32842789fd1cdb1511.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/55/55cbfaaffd552a0197e6adc46718f7706c37f16f.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/76/761d235ae4b9782e14d15ac2a97afe57da45e689.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/42/42dbeac2b53b3f6c9d8a0efedfd56edf6dfeb977.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/c4/c438a6af8de4e2db6301ec670a62bae49916bc73.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/e3/e33c7693c585e1d26b19454472e241a764deed5b.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/6a/6a38e1d83fa2baeedffa37f9db7d7932392457be.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/81/810f59aa19d3069ea7ea56ddbd39de55a13efc1b.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/9a/9a4bd4350bf47495621c14f25b733cea925fdaff.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/a3/a33fa79b6d423c5e50af4bc046595955e9d11251.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/a0/a03086c8d546c90090d9d8d1ab741e5c2f5792f8.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/1e/1eba37204fec020bf9c8c6d500b2f8e8c3eea92e.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/1b/1b9c3096a2b94888b0ca6a362fa05154196f16e1.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/4d/4d19f884baaf40b68f9ff9cc0aa87737053142ab.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/ad/adccc1c1780fc6eb1a2a1ef31a0e90b5c160be62.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/3c/3c3bf5c5491e15abf1fc6cc963918ea82e9aecd7.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/86/868f25f791c694993fe200dab5264bc7c2def83a.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/48/48550558f21f923f73041e930315199edfcb940c.js'
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/5f/5f2308349e4e2d60801d7deaccc9e3ffedebdaad.js'
+2023-9-22 00:51:10-groupEnd: Invalidate all modules
+2023-9-22 00:51:10-groupCollapsed: Imports all modules
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register DebugViewRuntimeControl
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/a0/a08433724050e6f342e3c45f8c63985066571188.js'
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/1f/1fcf4c99c30afe19766d074d649c3961aeae055d.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/a0/a0d063530de23ddade53e1a935bf64c81277c061.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/38/38c0f2b3637d786f2289c273a64d2261f3ca9c55.js" loaded.
+2023-9-22 00:51:10-debug: Invalidating 'pack:///chunks/d6/d67fb4ba43a1e3e3de8b5268f8912d337d16b99c.js'
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/1f/1f2cf78fe5d93e61f70f49ed6aecfa0c439d3418.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/df/df24b13b4a383a57f7d4f41a08a7395786996e4f.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/57/57f59800635393d7d7e183e83235de4e1f5abd6c.js" loaded.
+2023-9-22 00:51:10-log: Loading Live2D Cubism Core.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/d0/d053bb36d3e7ecbdcab4901b9c98808c16191271.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/0b/0b03c5609cd82d0e833672e2f9990386c4d745fc.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/36/36b04db54f493dccd469020c28350f1cb8dba01a.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismMeshPrimitive
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/e1/e12c567c69b75b75391399d0a583e75c18cf9a07.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismParameter
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/26/26bd270a9f13e8897c501c5dde87b2d977121cfa.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismPart
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/56/56de6bbcb86d63aaa2c46899c351158fdec230d9.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/a1/a14d93ff4044258c1dac757fa45902673260cfad.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/d2/d2fc3ecc4c8a9c71a71ba0fea3875efdd7db0d10.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/5b/5b3361baf77d48a46a01be607171d76159be5361.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismUpdateController
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/0f/0f8e0e48790facb8607d180a83b7ccb25e6cdd07.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismParameterStore
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/d1/d17ac418c690b31975bc5afce49d8b04ce102005.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/e6/e69e2bb07ff98fdc91a91f5feedd4e8189adc506.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/d9/d9ef6d6e0c0c0e88d84d15ac1b7ea2dd26303d69.js" loaded.
+2023-9-22 00:51:10-log: Loaded Live2D Cubism Core version:  05 00 0000
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/d0/d053bb36d3e7ecbdcab4901b9c98808c16191271.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismDrawable
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/0b/0bad21982525b097a506492a6a68f64dce66cb54.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/98/986bbd0d91324dcdc508fc063687b1dc7a902c92.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismMoc
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/a2/a26a7a9dfd4ed05fe5dea1af1365b78f15277fb2.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/6f/6ff46f65aebd9f70ec455a5d0c93c6c74f55cfdb.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismModel
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/67/677e3eebe236070eb682b88db699933829ed24ce.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/36/36897b7035a7c9a2d50b7a8a0d48bc2e5fc78e65.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/55/555b87b851b985dbfae63c74b576ae6eaeb24d9e.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismEyeBlinkParameter
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/cc/ccc66cdb1f952565675297c9fae98e088599add7.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/d7/d77b4888a0064ee5b73f374a2a90329ea1a5a411.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/a5/a58545ecea8f539e6120273d3a8d208f55d0839d.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismEyeBlinkController
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/66/669ba6ecb43e939666909c1d9f38456832ce6cf9.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismAutoEyeBlinkInput
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/64/649801953ae17f656a6a2d4ee3a8f53d19c16e14.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismDisplayInfoParameterName
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/ad/ad2b1cc3a2dc659ce016fe6a8c0058bb491c22d2.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismDisplayInfoPartName
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/85/85b8e2603ce2169a4eaa7c9c7eb7a8e219b8a40f.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismHitDrawable
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/d5/d518fc586a70e5f7c410635bc553b6a249cbf8ec.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismMotionApplier
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismParametersInspector
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/5f/5f70c3dbfe9523fb89c09c4a93a9796726d15a1e.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismPartsInspector
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/6e/6e348135987b7a54cafccde975081e63d006f021.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/a0/a07126dad4faf9a5eb0c16cfc0202ac0be34d9ba.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/06/066fde8bd73c063716a6a325b94fe0df8f847a6f.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/06/066fde8bd73c063716a6a325b94fe0df8f847a6f.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/8f/8fc6f36b7da9aebe08b25ab4550e7a6e8a378b57.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/ba/ba698b7ba8232ccef62383968891cb0106f65d46.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismExpressionData
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/cf/cfc4b3f2ee2e7df2a16d1a0abbf84be54b93ad77.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismExpressionList
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/89/899050eeaa28c7051f275ea49f95de562b1eefe4.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismPlayingExpression
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/a4/a49463436f75c84187db1370b7ec94f38331b00b.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismExpressionController
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/d7/d7c702d61b743ac489bb19a4b7417642f491f295.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/28/288085b2718ef171496f589ec2eacc5dc9f2fbe7.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismHarmonicMotionParameter
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/2e/2e68e0d8cfd31e747f01f8117aaa7d3ba1ba6e5c.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismHarmonicMotionController
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/04/048ee00943958c6419449a301f5f7adc1f9759c0.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/42/4245dbad6e32c53fc3df5a90ef541503c15c0087.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/d5/d524c7a848c617409dd9b3b2921785bda1bdaec6.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/06/06b7b48fca2d87620022922fe65c40e9a3f29b28.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/8b/8bf65210d83ebb6574b21521cdb7552d01c77577.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register SerializableExpressionParameter
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/9e/9e509cf928c852f36af041d60cb209feef6da763.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/e0/e0a060161ea2f801ca2f90a675bdf7dc3580df47.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismRenderer
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/22/224d19cd42e6af1b6fee1c7118a00b7d7e56493f.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/82/8228c057c922409f83402d8e0b1f7de1227072cd.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/7b/7b17a696a318963485c931770c50f90cc95be232.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/58/587cd27482bc4054b228718208f48a6d8c24de83.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/aa/aa0e5d9d6e30b6a8fedf45ef64dde76aa85bee26.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/f2/f29910ebaba5a686006d237d0bff62ac66b44e59.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismRenderController
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/d2/d233bfb3ad08389c82b11d29b25ac34560a016b0.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/70/705fb44d14fedca2234f3dd46362c7a6b26e1830.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/63/633439ab79117c22c962eecd45f546fcd76c3b47.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/b4/b48c5d524762ca280649c055e384f15981d1308a.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/8b/8b18839e2ee4d4029f52f411a2c5958d2938638e.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/af/af02e56b850b17bed378d94a853e3ef33f37f30b.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/52/5238bbfbd9863c5119b28d301c528533d2b0a727.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismMaskTexture
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/56/5641b7b01381bd916ccdd8ffe605f15f762948a3.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismMouthParameter
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/b3/b3e11c38317546be04355e2a3c3294ada5add50c.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismMouthController
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/9c/9c2f6d5a2e869113026f1a9054a24344e48e5cea.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register SerializableMeta
+2023-9-22 00:51:10-debug: [[Executor]] Register SerializableCurve
+2023-9-22 00:51:10-debug: [[Executor]] Register SerializableUserData
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismMotion3Json
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/1d/1d8cfae0107ec2289c238b6296cd5bb43cd7093e.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismSerializableKeyFrame
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/ba/baa346f03313ba03c7ccb4799d6348a287bca8c5.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/56/568b18841f0846cf910ff84e2d954a8cbde99496.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismSerializableCurve
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/56/5649b21e16d732255cc37852a735c5671d4e6885.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/af/afda9b53d7e0b820380aa58d7bcf00e4a7f8042b.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismFadeMotionData
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/47/4788ce92a467267518441493f8b87245fb564c60.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismFadeMotionList
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismFadeController
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/54/54cff20797e9d36ae3bce712e1403d79989cc8a5.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/8d/8d1f2770280bea31f2224a417a98368cdd841705.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register SerializableExpressionParameter
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/a0/a08433724050e6f342e3c45f8c63985066571188.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/85/85712daa244a2d86d1caaf8999aa7d43efc36741.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismPhysicsNormalizationTuplet
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismPhysicsNormalization
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/43/4327859f835a3fc71958bd8834064da95c2caf6f.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismPhysicsOutput
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/8e/8e89893d82afc5b3431dea8bc836969fd5075328.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismPhysicsInput
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismPhysicsParticle
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/79/790f9a89328c0337b93c1377f3da0c3748a3b0d6.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismPhysicsSubRig
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/36/367b822308ad764dd14b7dd673949603a1a59890.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismPhysicsRig
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismPosePart
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/ce/ce5e82bb7887d63b2c3b19dd855f619dbf01914e.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismPoseData
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/60/60a0add76475dd548db500923dab46608ce31e23.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismPoseController
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/54/54f9064a26c9c60e3588dba063c1e44418f5119f.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/d6/d67fb4ba43a1e3e3de8b5268f8912d337d16b99c.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismRaycastable
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/b3/b336377a293945b686c775fb7ca7d26ca8f15d52.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismUserDataBody
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/94/9417706d30d1b094aaeea2af4ae217314f98f2a5.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismUserDataTag
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/ce/ce5237e11a30b23ee2d526e9a9d99b228a8ab6c8.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/2a/2ac70eee3f24ddd97222d70d9d4b3ab398cf09e6.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/b8/b8fa0b395fb77349dac7c238f462a3677afaa464.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/49/496fc852a231383300fdf5418dfad6e2c37c6b17.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/ba/ba9432fc0201c1ba500e6d50598d6d252e4284ee.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/0e/0ebb542e6fd5ed5e346519016b65487ffbb7e30f.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/56/5641b7b01381bd916ccdd8ffe605f15f762948a3.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/cd/cd70ce8a181c78386c8de4bff1dd33ebbb5b2542.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/b3/b394b6f67e703d9cb9c12f192842084fa2d140bb.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/9a/9ae01c597ca508f10a66bfbbd9e72d53f623a53b.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismMaskController
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/90/90e710c63171abf684b12401b402a4f5245f4062.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismPhysicsController
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/81/81cc974cd2899671a948b115e0a1655df54ef80e.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/04/0402f79fed3f5e4132f64888fe1fc40134d78ab8.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/a1/a11459b551d50782bac7400c7656da671ef0cff6.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/08/08cbb0987ba7e9787db1d8abc1e0e5e957bc86c1.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismLookParameter
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/86/868f25f791c694993fe200dab5264bc7c2def83a.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismMaskCommandBuffer
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/76/76d14e0851fbf7ea714f78be6073b8d920c92be5.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismLookController
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/cd/cd73e964f5411aa8a2bcd277dc8186e639654801.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/1b/1b37302cb23f98639b51bd32842789fd1cdb1511.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/55/55cbfaaffd552a0197e6adc46718f7706c37f16f.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/76/761d235ae4b9782e14d15ac2a97afe57da45e689.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismFadeStateObserver
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/42/42dbeac2b53b3f6c9d8a0efedfd56edf6dfeb977.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/c4/c438a6af8de4e2db6301ec670a62bae49916bc73.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/6a/6a38e1d83fa2baeedffa37f9db7d7932392457be.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismAudioMouthInput
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismLookTargetBehaviour
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/e3/e33c7693c585e1d26b19454472e241a764deed5b.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismAutoMouthInput
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/81/810f59aa19d3069ea7ea56ddbd39de55a13efc1b.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/9a/9a4bd4350bf47495621c14f25b733cea925fdaff.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismRaycaster
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/a3/a33fa79b6d423c5e50af4bc046595955e9d11251.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/a0/a03086c8d546c90090d9d8d1ab741e5c2f5792f8.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/1e/1eba37204fec020bf9c8c6d500b2f8e8c3eea92e.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/1b/1b9c3096a2b94888b0ca6a362fa05154196f16e1.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/4d/4d19f884baaf40b68f9ff9cc0aa87737053142ab.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/ad/adccc1c1780fc6eb1a2a1ef31a0e90b5c160be62.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register CubismExpressionPreview
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/3c/3c3bf5c5491e15abf1fc6cc963918ea82e9aecd7.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register RaycastHitDisplay
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/48/48550558f21f923f73041e930315199edfcb940c.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Register Billboarder
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/5f/5f2308349e4e2d60801d7deaccc9e3ffedebdaad.js" loaded.
+2023-9-22 00:51:10-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2023-9-22 00:51:10-groupEnd: Imports all modules
+2023-9-22 00:51:10-debug: Incremental keys: 
+2023-9-22 00:51:10-debug: web-desktop:(onAfterBundleInit) start...11%
+2023-9-22 00:51:10-debug: // ---- build task web-desktop：onAfterBundleInit ----
+2023-9-22 00:51:10-debug: // ---- build task web-desktop：onAfterBundleInit ---- (2ms)
+2023-9-22 00:51:10-debug: web-desktop:(onAfterBundleInit) in 2 ms ✓11%
+2023-9-22 00:51:10-debug: 查询 Asset Bundle start11%
+2023-9-22 00:51:10-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-22 00:51:10-debug: Init bundle root assets start...11%
+2023-9-22 00:51:10-debug: Init bundle share assets start...11%
+2023-9-22 00:51:10-debug: Init bundle root assets success...11%
+2023-9-22 00:51:10-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,9361fd90-ba52-4f84-aa93-6e878fd576ca,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+2023-9-22 00:51:11-debug: Init bundle share assets success...11%
+2023-9-22 00:51:11-debug: handle json group in bundle main
+2023-9-22 00:51:11-debug: handle json group in bundle Live2DCubismBuiltinResource
+2023-9-22 00:51:11-debug: init image compress task 0 in bundle internal
+2023-9-22 00:51:11-debug: handle json group in bundle main success
+2023-9-22 00:51:11-debug: init image compress task 0 in bundle main
+2023-9-22 00:51:11-debug: handle json group in bundle Live2DCubismBuiltinResource success
+2023-9-22 00:51:11-debug: handle json group in bundle internal
+2023-9-22 00:51:11-debug: handle json group in bundle internal success
+2023-9-22 00:51:11-debug: init image compress task 0 in bundle Live2DCubismBuiltinResource
+2023-9-22 00:51:11-debug: [Build Memory track]: 查询 Asset Bundle start:357.97MB, end 321.44MB, increase: -37403.48KB
+2023-9-22 00:51:11-debug: 查询 Asset Bundle start16%
+2023-9-22 00:51:11-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-22 00:51:11-debug: run build task 查询 Asset Bundle success in 121 ms √16%
+2023-9-22 00:51:11-debug: // ---- build task 查询 Asset Bundle ---- (121ms)
+2023-9-22 00:51:11-debug: [Build Memory track]: 查询 Asset Bundle start:321.46MB, end 321.52MB, increase: 64.41KB
+2023-9-22 00:51:11-debug: web-desktop:(onAfterBundleDataTask) start...21%
+2023-9-22 00:51:11-debug: // ---- build task web-desktop：onAfterBundleDataTask ----
+2023-9-22 00:51:11-debug: run build task 查询 Asset Bundle success in 4 ms √21%
+2023-9-22 00:51:11-debug: // ---- build task 查询 Asset Bundle ---- (4ms)
+2023-9-22 00:51:11-debug: 打包脚本 start21%
+2023-9-22 00:51:11-debug: // ---- build task 打包脚本 ----
+2023-9-22 00:51:11-debug: web-desktop:(onAfterBundleDataTask) in 4 ms ✓21%
+2023-9-22 00:51:11-debug: // ---- build task web-desktop：onAfterBundleDataTask ---- (4ms)
+2023-9-22 00:51:14-debug: Build script in bundle start21%
+2023-9-22 00:51:14-log: Run build task(build-script) in child, see: chrome://inspect/#devices
+2023-9-22 00:51:15-log: [build-script]enter sub process 49248, /Users/sunjia/Downloads/CocosCreator.app/Contents/Frameworks/CocosCreator Helper (Renderer).app/Contents/MacOS/CocosCreator Helper (Renderer),/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/builder/static/sub-process-index
+2023-9-22 00:51:18-log: [build-script]Create cjs interop url for 'file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Live2DCubismCore.js'
+2023-9-22 00:51:18-log: [build-script]Create cjs interop url for 'file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Live2DCubismCore.js'
+2023-9-22 00:51:18-log: [build-script]Create cjs interop url for 'file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Live2DCubismCore.js'
+2023-9-22 00:51:18-warn: [build-script][[Build.Script.Rollup]] Circular dependency: file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/ComponentExtensionMethods.ts -> file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/CubismModel.ts -> file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/CubismDrawable.ts -> file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/ComponentExtensionMethods.ts[warning][[Build.Script.Rollup]] Circular dependency: file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/ComponentExtensionMethods.ts -> file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/CubismModel.ts -> file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/CubismParameterStore.ts -> file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/ComponentExtensionMethods.ts
+2023-9-22 00:51:18-warn: [build-script][[Build.Script.Rollup]] Circular dependency: file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/ComponentExtensionMethods.ts -> file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/CubismModel.ts -> file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/CubismParameterStore.ts -> file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/CubismUpdateController.ts -> file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/ComponentExtensionMethods.ts[warning][[Build.Script.Rollup]] Circular dependency: file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/Masking/CubismMaskCommandBuffer.ts -> file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/Masking/CubismMaskTexture.ts -> file:///Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/Masking/CubismMaskCommandBuffer.ts
+2023-9-22 00:51:21-debug: Build script in bundle success21%
+2023-9-22 00:51:21-debug: Copy externalScripts success!
+2023-9-22 00:51:21-debug: excute-script over with build-script 6339ms
+2023-9-22 00:51:21-debug: Use cache engine: {link(/var/folders/w5/mmxy3_dn56gcsk1g5cnytmc80000gn/T/CocosCreator/3.8.1/builder/engine/d8682e1f88db746106535645b8b2e585)}
+2023-9-22 00:51:21-debug: {"debug":false,"sourceMaps":false,"includeModules":["2d","3d","animation","audio","base","dragon-bones","gfx-webgl","gfx-webgl2","intersection-2d","light-probe","marionette","particle","particle-2d","physics-2d-box2d","physics-ammo","primitive","profiler","skeletal-animation","spine","terrain","tiled-map","tween","ui","video","websocket","webview"],"engineVersion":"3.8.1","md5Map":[],"engineName":"cocos-js","platform":"HTML5","useCache":true,"ammoJsWasm":"fallback","assetURLFormat":"runtime-resolved","output":"/Users/sunjia/project/cocos/NewProject_1/build/web-desktop/cocos-js","flags":{"DEBUG":false,"WASM_FALLBACK":true,"CULL_ASM_JS_MODULE":false,"WEBGPU":false,"CULL_MESHOPT":false},"entry":"/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine"}
+2023-9-22 00:51:21-debug: [Build Memory track]: 打包脚本 start:321.71MB, end 363.01MB, increase: 41.29MB
+2023-9-22 00:51:21-debug: Build Assets start26%
+2023-9-22 00:51:21-debug: // ---- build task Build Assets ----
+2023-9-22 00:51:21-debug: Pack Images start26%
+2023-9-22 00:51:21-debug: // ---- build task 打包脚本 ---- (10287ms)
+2023-9-22 00:51:21-debug: run build task 打包脚本 success in 10287 ms √26%
+2023-9-22 00:51:21-debug: builder:pack-auto-atlas-image (7ms)
+2023-9-22 00:51:21-debug: Compress image start...26%
+2023-9-22 00:51:21-group: Compress image...
+2023-9-22 00:51:21-debug: Num of image compress task 0
+2023-9-22 00:51:21-debug: No image need to compress
+2023-9-22 00:51:21-groupEnd: Compress image...
+2023-9-22 00:51:21-debug: Compress image success...26%
+2023-9-22 00:51:21-debug: Ouput asset in bundles start26%
+2023-9-22 00:51:21-debug: Handle all json groups in bundle internal
+2023-9-22 00:51:21-debug: handle json group
+2023-9-22 00:51:21-debug: Pack Images success26%
+2023-9-22 00:51:21-debug: handle json group
+2023-9-22 00:51:21-debug: Handle all json groups in bundle main
+2023-9-22 00:51:21-debug: Handle all json groups in bundle Live2DCubismBuiltinResource
+2023-9-22 00:51:21-debug: handle json group
+2023-9-22 00:51:21-debug: Json group(07c80c4af) compile success，json number: 6
+2023-9-22 00:51:21-debug: Json group(0d0d3c8df) compile success，json number: 6
+2023-9-22 00:51:21-debug: Json group(070e260c2) compile success，json number: 6
+2023-9-22 00:51:21-debug: Json group(0a9f2beb8) compile success，json number: 6
+2023-9-22 00:51:21-debug: Json group(010d3a23c) compile success，json number: 6
+2023-9-22 00:51:21-debug: Json group(061af761b) compile success，json number: 6
+2023-9-22 00:51:21-debug: Json group(052175adc) compile success，json number: 6
+2023-9-22 00:51:21-debug: Json group(0a95df24c) compile success，json number: 6
+2023-9-22 00:51:21-debug: handle single json
+2023-9-22 00:51:21-debug: Json group(0b2bbb7a0) compile success，json number: 6
+2023-9-22 00:51:21-debug: Json group(0bfe047a4) compile success，json number: 6
+2023-9-22 00:51:21-debug: Json group(04b964e93) compile success，json number: 6
+2023-9-22 00:51:21-debug: handle single json
+2023-9-22 00:51:21-debug: Json group(082e531bc) compile success，json number: 6
+2023-9-22 00:51:21-debug: Json group(02a00605e) compile success，json number: 6
+2023-9-22 00:51:21-debug: Json group(044e7e791) compile success，json number: 6
+2023-9-22 00:51:21-debug: Json group(01bfd1c19) compile success，json number: 6
+2023-9-22 00:51:21-debug: Json group(05eb60ce3) compile success，json number: 6
+2023-9-22 00:51:21-debug: Json group(040854a7d) compile success，json number: 6
+2023-9-22 00:51:21-debug: Json group(0dbd9ebe8) compile success，json number: 6
+2023-9-22 00:51:21-debug: Json group(01eced47a) compile success，json number: 6
+2023-9-22 00:51:21-debug: Json group(07b358bb5) compile success，json number: 6
+2023-9-22 00:51:21-debug: Json group(036fc8031) compile success，json number: 6
+2023-9-22 00:51:21-debug: handle single json
+2023-9-22 00:51:22-debug: Output asset in bundles success26%
+2023-9-22 00:51:22-debug: run build task Build Assets success in 707 ms √31%
+2023-9-22 00:51:22-debug: [Build Memory track]: Build Assets start:363.02MB, end 319.90MB, increase: -44153.20KB
+2023-9-22 00:51:22-debug: 给所有的资源加上 MD5 后缀 start31%
+2023-9-22 00:51:22-debug: // ---- build task 给所有的资源加上 MD5 后缀 ----
+2023-9-22 00:51:22-debug: // ---- build task Build Assets ---- (707ms)
+2023-9-22 00:51:22-debug: // ---- build task 给所有的资源加上 MD5 后缀 ---- (5ms)
+2023-9-22 00:51:22-debug: // ---- build task 查询 Asset Bundle ----
+2023-9-22 00:51:22-debug: Output asset in bundles start36%
+2023-9-22 00:51:22-debug: compress config of bundle internal...
+2023-9-22 00:51:22-debug: compress config of bundle internal success
+2023-9-22 00:51:22-debug: ouput config of bundle internal
+2023-9-22 00:51:22-debug: output config of bundle internal success
+2023-9-22 00:51:22-debug: compress config of bundle main...
+2023-9-22 00:51:22-debug: compress config of bundle main success
+2023-9-22 00:51:22-debug: ouput config of bundle main
+2023-9-22 00:51:22-debug: output config of bundle main success
+2023-9-22 00:51:22-debug: compress config of bundle Live2DCubismBuiltinResource...
+2023-9-22 00:51:22-debug: compress config of bundle Live2DCubismBuiltinResource success
+2023-9-22 00:51:22-debug: ouput config of bundle Live2DCubismBuiltinResource
+2023-9-22 00:51:22-debug: output config of bundle Live2DCubismBuiltinResource success
+2023-9-22 00:51:22-debug: Output asset in bundles success36%
+2023-9-22 00:51:22-debug: [Build Memory track]: 给所有的资源加上 MD5 后缀 start:319.97MB, end 320.03MB, increase: 60.56KB
+2023-9-22 00:51:22-debug: run build task 给所有的资源加上 MD5 后缀 success in 5 ms √36%
+2023-9-22 00:51:22-debug: 查询 Asset Bundle start36%
+2023-9-22 00:51:22-debug: run build task 查询 Asset Bundle success in 12 ms √41%
+2023-9-22 00:51:22-debug: [Build Memory track]: 查询 Asset Bundle start:320.05MB, end 320.93MB, increase: 903.63KB
+2023-9-22 00:51:22-debug: 整理部分构建选项内数据到 settings.json start41%
+2023-9-22 00:51:22-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-22 00:51:22-debug: // ---- build task 查询 Asset Bundle ---- (12ms)
+2023-9-22 00:51:22-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:320.94MB, end 321.00MB, increase: 59.69KB
+2023-9-22 00:51:22-debug: 填充脚本数据到 settings.json start43%
+2023-9-22 00:51:22-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (5ms)
+2023-9-22 00:51:22-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-9-22 00:51:22-debug: run build task 整理部分构建选项内数据到 settings.json success in 5 ms √43%
+2023-9-22 00:51:22-debug: // ---- build task 填充脚本数据到 settings.json ---- (4ms)
+2023-9-22 00:51:22-debug: [Build Memory track]: 填充脚本数据到 settings.json start:321.02MB, end 321.08MB, increase: 63.27KB
+2023-9-22 00:51:22-debug: 整理部分构建选项内数据到 settings.json start44%
+2023-9-22 00:51:22-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-9-22 00:51:22-debug: run build task 填充脚本数据到 settings.json success in 4 ms √44%
+2023-9-22 00:51:22-debug: run build task 整理部分构建选项内数据到 settings.json success in 6 ms √46%
+2023-9-22 00:51:22-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:321.09MB, end 321.28MB, increase: 193.05KB
+2023-9-22 00:51:22-debug: // ---- build task web-desktop：onBeforeCompressSettings ----
+2023-9-22 00:51:22-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (6ms)
+2023-9-22 00:51:22-debug: web-desktop:(onBeforeCompressSettings) start...46%
+2023-9-22 00:51:22-debug: cocos-service:(onBeforeCompressSettings) start...48%
+2023-9-22 00:51:22-debug: // ---- build task cocos-service：onBeforeCompressSettings ----
+2023-9-22 00:51:22-debug: web-desktop:(onBeforeCompressSettings) in 4 ms ✓48%
+2023-9-22 00:51:22-debug: // ---- build task web-desktop：onBeforeCompressSettings ---- (4ms)
+2023-9-22 00:51:22-debug: // ---- build task cocos-service：onBeforeCompressSettings ---- (187ms)
+2023-9-22 00:51:22-debug: // ---- build task 保存 settings.json ----
+2023-9-22 00:51:22-debug: cocos-service:(onBeforeCompressSettings) in 187 ms ✓51%
+2023-9-22 00:51:22-debug: 保存 settings.json start51%
+2023-9-22 00:51:22-debug: [Build Memory track]: 保存 settings.json start:321.48MB, end 321.59MB, increase: 115.23KB
+2023-9-22 00:51:22-debug: 整理静态模板文件 start53%
+2023-9-22 00:51:22-debug: // ---- build task 整理静态模板文件 ----
+2023-9-22 00:51:22-debug: // ---- build task 保存 settings.json ---- (6ms)
+2023-9-22 00:51:22-debug: run build task 保存 settings.json success in 6 ms √53%
+2023-9-22 00:51:22-debug: run build task 整理静态模板文件 success in 23 ms √56%
+2023-9-22 00:51:22-debug: [Build Memory track]: 整理静态模板文件 start:321.61MB, end 324.83MB, increase: 3.22MB
+2023-9-22 00:51:22-debug: cocos-service:(onAfterCompressSettings) start...56%
+2023-9-22 00:51:22-debug: // ---- build task cocos-service：onAfterCompressSettings ----
+2023-9-22 00:51:22-debug: // ---- build task 整理静态模板文件 ---- (23ms)
+2023-9-22 00:51:22-debug: web-desktop:(onAfterBuild) start...58%
+2023-9-22 00:51:22-debug: // ---- build task web-desktop：onAfterBuild ----
+2023-9-22 00:51:22-debug: // ---- build task cocos-service：onAfterCompressSettings ---- (162ms)
+2023-9-22 00:51:22-debug: cocos-service:(onAfterCompressSettings) in 162 ms ✓58%
+2023-9-22 00:51:22-debug: cocos-service:(onAfterBuild) start...60%
+2023-9-22 00:51:22-debug: // ---- build task cocos-service：onAfterBuild ----
+2023-9-22 00:51:22-debug: // ---- build task web-desktop：onAfterBuild ---- (14ms)
+2023-9-22 00:51:22-debug: web-desktop:(onAfterBuild) in 14 ms ✓60%
+2023-9-22 00:51:22-debug: // ---- build task cocos-service：onAfterBuild ---- (178ms)
+2023-9-22 00:51:22-debug: adsense-h5g-plugin:(onAfterBuild) start...62%
+2023-9-22 00:51:22-debug: cocos-service:(onAfterBuild) in 178 ms ✓62%
+2023-9-22 00:51:22-debug: // ---- build task adsense-h5g-plugin：onAfterBuild ----
+2023-9-22 00:51:22-log: Asset DB is resume!
+2023-9-22 00:51:22-debug: // ---- build task adsense-h5g-plugin：onAfterBuild ---- (5ms)
+2023-9-22 00:51:22-debug: adsense-h5g-plugin:(onAfterBuild) in 5 ms ✓64%
+2023-9-22 00:51:22-debug: builder:build-project-total (16272ms)
+2023-9-22 00:51:22-debug: [Build Memory track]: builder:build-project-total start:354.45MB, end 321.16MB, increase: -34079.92KB
+2023-9-22 00:51:22-debug: build success in 16272 ms!
+2023-9-22 00:51:22-debug: ================================ build Task (web-desktop) Finished in (16356)ms ================================
+2023-9-22 00:51:25-log: [task:run]: web-desktop:(run) start..., 10%
+2023-9-22 00:51:25-debug: // ---- build task web-desktop：run ----
+2023-9-22 00:51:25-debug: // ---- builder:run-build-stage-run ----
+2023-9-22 00:51:25-log: [task:run]: init options success, 10%
+2023-9-22 00:51:25-debug: // ---- build task web-desktop：run ---- (14ms)
+2023-9-22 00:51:25-log: [task:run]: web-desktop:(run) in 14 ms ✓, 23.333333333333332%
+2023-9-22 00:51:25-debug: // ---- builder:run-build-stage-run ---- (20ms)
+2023-9-22 00:51:25-debug: [Build Memory track]: builder:build-stage-total run start:324.84MB, end 325.04MB, increase: 203.89KB
+2023-9-22 00:51:25-log: [task:run]: success!

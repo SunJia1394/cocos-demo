@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "hijiki.pose3",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "json": {
+    "Type": "Live2D Pose",
+    "Groups": [
+      [
+        {
+          "Id": "PARTS_01_ARM_L_02",
+          "Link": []
+        },
+        {
+          "Id": "PARTS_01_ARM_L",
+          "Link": []
+        }
+      ],
+      [
+        {
+          "Id": "PARTS_01_ARM_R_02",
+          "Link": []
+        },
+        {
+          "Id": "PARTS_01_ARM_R",
+          "Link": []
+        }
+      ]
+    ]
+  }
+}

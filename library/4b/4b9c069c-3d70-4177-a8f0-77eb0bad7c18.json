@@ -1,0 +1,31 @@
+{
+  "__type__": "CubismFadeMotionList",
+  "_name": "",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "motionInstanceIds": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "cubismFadeMotionObjects": [
+    {
+      "__uuid__": "48ffa38b-d9c9-4031-a0c2-66326f597b35",
+      "__expectedType__": "CubismFadeMotionData"
+    },
+    {
+      "__uuid__": "46c8f2d1-afe8-40b4-b3ed-2848a8eb5fa2",
+      "__expectedType__": "CubismFadeMotionData"
+    },
+    {
+      "__uuid__": "1227dfbd-4fec-4b98-8106-83f994d6db8b",
+      "__expectedType__": "CubismFadeMotionData"
+    },
+    {
+      "__uuid__": "8a6ffca5-a6fa-413d-a8b4-c49a7f794ec5",
+      "__expectedType__": "CubismFadeMotionData"
+    }
+  ]
+}

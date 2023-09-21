@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "ES2015",
+    "strict": true,
+    "types": [
+      "./temp/declarations/cc.custom-macro",
+      "./temp/declarations/cc",
+      "./temp/declarations/jsb",
+      "./temp/declarations/cc.env"
+    ],
+    "paths": {
+      "db://internal/*": [
+        "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/*"
+      ],
+      "db://assets/*": [
+        "/Users/sunjia/project/cocos-test/cocos-demo/assets/*"
+      ],
+      "db://live2d_cubismsdk_cocoscreator/*": [
+        "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/*"
+      ]
+    },
+    "experimentalDecorators": true,
+    "isolatedModules": true,
+    "moduleResolution": "node",
+    "noEmit": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}

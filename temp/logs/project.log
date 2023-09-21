@@ -1,0 +1,536 @@
+9-22-2023 01:11:32 - log: Load engine in /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine
+9-22-2023 01:11:32 - log: Register native engine in /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+9-22-2023 01:11:39 - log: cubism sdk extensions load.
+9-22-2023 01:11:41 - info: [PreviewInEditor] 预览环境初始化完毕
+9-22-2023 01:11:44 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/02.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/02.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:44 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/06.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/06.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:44 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/03.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/03.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:44 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/07.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/07.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:44 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/04.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/04.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:44 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/08.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/08.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:44 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/00_idle.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/00_idle.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:44 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/01.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/01.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:44 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/05.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/05.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Koharu/Animation/body.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Koharu/Animation/body.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Koharu/Animation/face01.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Koharu/Animation/face01.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Koharu/Animation/face02.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Koharu/Animation/face02.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/00_idle.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/00_idle.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Mao/motions/mtn_01.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Mao/motions/mtn_01.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/04.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/04.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Mao/motions/mtn_02.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Mao/motions/mtn_02.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Mao/motions/mtn_03.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Mao/motions/mtn_03.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Mao/motions/mtn_04.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Mao/motions/mtn_04.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/08.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/08.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Mao/motions/special_01.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Mao/motions/special_01.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Mao/motions/special_02.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Mao/motions/special_02.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/01.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/01.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/02.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/02.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/03.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/03.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motions/mtn_00.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motions/mtn_00.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motions/mtn_01.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motions/mtn_01.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motions/mtn_02.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motions/mtn_02.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/06.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/06.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motions/mtn_03.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motions/mtn_03.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motions/mtn_04.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motions/mtn_04.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motions/mtn_05.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motions/mtn_05.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/07.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/07.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motions/mtn_06.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motions/mtn_06.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motions/mtn_07.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motions/mtn_07.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/05.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/05.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motions/mtn_08.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motions/mtn_08.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Rice/motions/mtn_00.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Rice/motions/mtn_00.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Rice/motions/mtn_01.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Rice/motions/mtn_01.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Rice/motions/mtn_02.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Rice/motions/mtn_02.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Rice/motions/mtn_03.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Rice/motions/mtn_03.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/idle_01.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/idle_01.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/idle_02.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/idle_02.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/idle_03.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/idle_03.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/idle_04.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/idle_04.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/shake_01.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/shake_01.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/shake_02.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/shake_02.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/touch_01.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/touch_01.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/touch_02.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/touch_02.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/touch_03.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/touch_03.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/touch_04.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/touch_04.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/touch_05.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/touch_05.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:45 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/touch_06.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motions/touch_06.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:11:47 - info: [Scene] CubismMaskCommandBuffer.onLoad()
+9-22-2023 01:13:03 - warn: [Scene] 动画控制器组件和动画组件、骨骼动画组件不能共存。Error: [Scene] 动画控制器组件和动画组件、骨骼动画组件不能共存。
+    at NodeManager.checkComponentsCollision (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/node/index.ccc:1:27209)
+    at NodeManager.createComponent (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/node/index.ccc:1:12403)
+    at GeneralSceneFacade.createComponent (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/general-scene-facade.ccc:1:12480)
+    at SceneFacadeManager.createComponent (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/scene-facade-manager.ccc:1:13953)
+    at step (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/ipc/web/ipc.ccc:1:748)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/ipc/web/ipc.ccc:1:1617
+    at new Promise (<anonymous>)
+9-22-2023 01:15:06 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/soldier.FBX'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/soldier.FBX'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at Object.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at AssetDBManager._refreshAsset (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/asset-db-manager.ccc:1:10313)
+    at AssetDBManager._operate (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/asset-db-manager.ccc:1:8025)
+    at AssetDBManager.refreshAsset (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/asset-db-manager.ccc:1:10185)
+    at AssetDBManager._removeAsset (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/asset-db-manager.ccc:1:12448)
+    at AssetDBManager._operate (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/asset-db-manager.ccc:1:8012)
+9-22-2023 01:15:13 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/soldier.png'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/soldier.png'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at Object.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at AssetDBManager._refreshAsset (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/asset-db-manager.ccc:1:10313)
+    at AssetDBManager._operate (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/asset-db-manager.ccc:1:8025)
+    at AssetDBManager.refreshAsset (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/asset-db-manager.ccc:1:10185)
+    at AssetDBManager._removeAsset (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/asset-db-manager.ccc:1:12448)
+    at AssetDBManager._operate (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/asset-db-manager.ccc:1:8012)
+9-22-2023 01:15:24 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/soldier.prefab'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/soldier.prefab'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at Object.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at AssetDBManager._refreshAsset (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/asset-db-manager.ccc:1:10313)
+    at AssetDBManager._operate (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/asset-db-manager.ccc:1:8025)
+    at AssetDBManager.refreshAsset (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/asset-db-manager.ccc:1:10185)
+    at AssetDBManager._removeAsset (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/asset-db-manager.ccc:1:12448)
+    at AssetDBManager._operate (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/asset-db-manager.ccc:1:8012)
+9-22-2023 01:15:48 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/00_idle.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/00_idle.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:15:48 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/01.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/01.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:15:48 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/02.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/02.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:15:48 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/03.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/03.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:15:48 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/04.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/04.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:15:48 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/05.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/05.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:15:48 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/06.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/06.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:15:48 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/07.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/07.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:15:48 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/08.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/08.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:15:48 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/00_idle.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/00_idle.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:15:48 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/04.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/04.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:15:48 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/08.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/08.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:15:48 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/01.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/01.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:15:48 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/02.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/02.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:15:48 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/03.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/03.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:15:48 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/06.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/06.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:15:48 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/05.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/05.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)
+9-22-2023 01:15:48 - error: [Assets] ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/07.fade.fade.asset'Error: ENOENT: no such file or directory, stat '/Users/sunjia/project/cocos-test/cocos-demo/assets/model/hijikiruntime/motion/07.fade.fade.asset'
+    at statSync (fs.js:1086:3)
+    at Object.e.statSync (electron/js2c/asar_bundle.js:5:4315)
+    at /Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/polyfills.js:308:16
+    at AssetDB.refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:418:54)
+    at refresh (/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/manager.ccc:266:26)
+    at CubismFadeMotionDataImporter.import (/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/dist/Importers/Internals/CubismFadeMotionDataImporter.js:47:32)

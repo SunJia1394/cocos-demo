@@ -1,0 +1,380 @@
+{
+  "path": {
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/Mask.effect": [
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/unlit-vs.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/MaskVert.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/input.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/decode.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/decode-base.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/common-define.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/data/unpack.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/morph.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/functionalities/morph-animation.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-morph.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/skinning.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-skinning.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/functionalities/skinning-animation-lbs.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/CubismToMaskClipPos.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/CubismToMaskCoordinates.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/CubismMaskShaderVariables.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/unlit-fs.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/MaskFrag.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/CubismGetMaskChannel.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/unlit-vs.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/resources/Shaders/MaskVert.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/legacy/input.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/legacy/decode.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/legacy/decode-base.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/common/common-define.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/common/data/unpack.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/legacy/morph.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/builtin/functionalities/morph-animation.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/builtin/uniforms/cc-morph.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/legacy/skinning.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/builtin/uniforms/cc-skinning.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/builtin/functionalities/skinning-animation-lbs.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/resources/Shaders/CubismToMaskClipPos.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/resources/Shaders/CubismToMaskCoordinates.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/resources/Shaders/CubismMaskShaderVariables.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/unlit-fs.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/resources/Shaders/MaskFrag.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/resources/Shaders/CubismGetMaskChannel.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/unlit-vs.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/MaskVert.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/input.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/decode.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/decode-base.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/common/common-define.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/common/data/unpack.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/morph.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/functionalities/morph-animation.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/uniforms/cc-morph.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/skinning.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/uniforms/cc-skinning.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/functionalities/skinning-animation-lbs.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismToMaskClipPos.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismToMaskCoordinates.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismMaskShaderVariables.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/unlit-fs.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/MaskFrag.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismGetMaskChannel.chunk"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/Unlit.effect": [
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/unlit-vs.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/UnlitVert.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/input.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/decode.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/decode-base.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/common-define.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/data/unpack.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/morph.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/functionalities/morph-animation.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-morph.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/skinning.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-skinning.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/functionalities/skinning-animation-lbs.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-local.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-global.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/CubismToMaskCoordinates.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/CubismMaskShaderVariables.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/unlit-fs.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/UnlitFrag.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/CubismGetClippedMaskChannel.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/CubismGetMaskChannel.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/CubismSampleMaskTexture.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/unlit-vs.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/resources/Shaders/UnlitVert.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/legacy/input.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/legacy/decode.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/legacy/decode-base.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/common/common-define.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/common/data/unpack.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/legacy/morph.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/builtin/functionalities/morph-animation.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/builtin/uniforms/cc-morph.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/legacy/skinning.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/builtin/uniforms/cc-skinning.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/builtin/functionalities/skinning-animation-lbs.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/builtin/uniforms/cc-local.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/builtin/uniforms/cc-global.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/resources/Shaders/CubismToMaskCoordinates.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/resources/Shaders/CubismMaskShaderVariables.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/chunks/unlit-fs.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/resources/Shaders/UnlitFrag.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/resources/Shaders/CubismGetClippedMaskChannel.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/resources/Shaders/CubismGetMaskChannel.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/assets/resources/Shaders/CubismSampleMaskTexture.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/unlit-vs.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/UnlitVert.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/input.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/decode.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/decode-base.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/common/common-define.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/common/data/unpack.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/morph.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/functionalities/morph-animation.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/uniforms/cc-morph.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/skinning.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/uniforms/cc-skinning.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/functionalities/skinning-animation-lbs.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/uniforms/cc-local.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/uniforms/cc-global.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismToMaskCoordinates.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismMaskShaderVariables.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/unlit-fs.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/UnlitFrag.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismGetClippedMaskChannel.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismGetMaskChannel.chunk",
+      "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismSampleMaskTexture.chunk"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/Mask.effect": [
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/unlit-vs.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/MaskVert.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/input.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/decode.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/decode-base.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/common-define.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/data/unpack.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/morph.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/functionalities/morph-animation.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-morph.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/skinning.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-skinning.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/functionalities/skinning-animation-lbs.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/CubismToMaskClipPos.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/CubismToMaskCoordinates.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/CubismMaskShaderVariables.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/unlit-fs.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/MaskFrag.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/CubismGetMaskChannel.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/unlit-vs.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/resources/Shaders/MaskVert.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/legacy/input.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/legacy/decode.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/legacy/decode-base.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/common/common-define.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/common/data/unpack.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/legacy/morph.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/builtin/functionalities/morph-animation.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/builtin/uniforms/cc-morph.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/legacy/skinning.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/builtin/uniforms/cc-skinning.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/builtin/functionalities/skinning-animation-lbs.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/resources/Shaders/CubismToMaskClipPos.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/resources/Shaders/CubismToMaskCoordinates.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/resources/Shaders/CubismMaskShaderVariables.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/unlit-fs.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/resources/Shaders/MaskFrag.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/resources/Shaders/CubismGetMaskChannel.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/unlit-vs.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/MaskVert.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/input.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/decode.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/decode-base.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/common/common-define.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/common/data/unpack.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/morph.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/functionalities/morph-animation.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/uniforms/cc-morph.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/skinning.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/uniforms/cc-skinning.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/functionalities/skinning-animation-lbs.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismToMaskClipPos.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismToMaskCoordinates.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismMaskShaderVariables.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/unlit-fs.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/MaskFrag.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismGetMaskChannel.chunk"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/Unlit.effect": [
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/unlit-vs.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/UnlitVert.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/input.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/decode.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/decode-base.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/common-define.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/common/data/unpack.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/morph.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/functionalities/morph-animation.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-morph.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/legacy/skinning.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-skinning.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/functionalities/skinning-animation-lbs.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-local.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/builtin/uniforms/cc-global.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/CubismToMaskCoordinates.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/CubismMaskShaderVariables.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/chunks/unlit-fs.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/UnlitFrag.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/CubismGetClippedMaskChannel.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/CubismGetMaskChannel.chunk",
+      "/Users/sunjia/Downloads/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/resources/Shaders/CubismSampleMaskTexture.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/unlit-vs.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/resources/Shaders/UnlitVert.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/legacy/input.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/legacy/decode.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/legacy/decode-base.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/common/common-define.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/common/data/unpack.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/legacy/morph.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/builtin/functionalities/morph-animation.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/builtin/uniforms/cc-morph.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/legacy/skinning.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/builtin/uniforms/cc-skinning.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/builtin/functionalities/skinning-animation-lbs.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/builtin/uniforms/cc-local.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/builtin/uniforms/cc-global.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/resources/Shaders/CubismToMaskCoordinates.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/resources/Shaders/CubismMaskShaderVariables.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/chunks/unlit-fs.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/resources/Shaders/UnlitFrag.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/resources/Shaders/CubismGetClippedMaskChannel.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/resources/Shaders/CubismGetMaskChannel.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/resources/Shaders/CubismSampleMaskTexture.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/unlit-vs.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/UnlitVert.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/input.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/decode.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/decode-base.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/common/common-define.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/common/data/unpack.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/morph.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/functionalities/morph-animation.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/uniforms/cc-morph.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/legacy/skinning.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/uniforms/cc-skinning.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/functionalities/skinning-animation-lbs.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/uniforms/cc-local.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/builtin/uniforms/cc-global.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismToMaskCoordinates.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismMaskShaderVariables.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/chunks/unlit-fs.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/UnlitFrag.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismGetClippedMaskChannel.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismGetMaskChannel.chunk",
+      "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismSampleMaskTexture.chunk"
+    ]
+  },
+  "uuid": {
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/Mask.mtl": [
+      "30784a3e-ff54-4ccf-a63a-5f9f2d248b6b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/Unlit.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/MaskCulling.mtl": [
+      "30784a3e-ff54-4ccf-a63a-5f9f2d248b6b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitAdditive.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitAdditiveCulling.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitAdditiveMasked.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitAdditiveMaskedInverted.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitCulling.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitAdditiveMaskedInvertedCulling.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitAdditiveMaskedCulling.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMasked.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMaskedCulling.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMaskedInverted.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMaskedInvertedCulling.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMultiply.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMultiplyCulling.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMultiplyMasked.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMultiplyMaskedCulling.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMultiplyMaskedInverted.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMultiplyMaskedInvertedCulling.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/MaskCulling.mtl": [
+      "30784a3e-ff54-4ccf-a63a-5f9f2d248b6b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/Unlit.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/Mask.mtl": [
+      "30784a3e-ff54-4ccf-a63a-5f9f2d248b6b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitAdditive.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitAdditiveCulling.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitAdditiveMasked.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitAdditiveMaskedCulling.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitAdditiveMaskedInverted.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitAdditiveMaskedInvertedCulling.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitCulling.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMasked.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMaskedInverted.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMaskedCulling.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMaskedInvertedCulling.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMultiply.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMultiplyCulling.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMultiplyMasked.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMultiplyMaskedCulling.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMultiplyMaskedInverted.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materials/UnlitMultiplyMaskedInvertedCulling.mtl": [
+      "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+    ]
+  }
+}

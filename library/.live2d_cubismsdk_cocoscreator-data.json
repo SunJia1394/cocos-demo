@@ -1,0 +1,2322 @@
+{
+  "220b54fa-47f8-45e5-9e32-c71fe59f1737": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Core",
+    "value": {}
+  },
+  "5fdcb59d-8e2f-44dd-b8d3-a71f94801eb7": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework",
+    "value": {}
+  },
+  "70360468-f277-487a-b723-d829b08afba2": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering",
+    "value": {}
+  },
+  "ce459f3d-e42e-4dca-b641-b453098bd8d4": {
+    "url": "db://live2d_cubismsdk_cocoscreator/SampleScripts",
+    "value": {}
+  },
+  "6c45f1a1-703a-452e-9f3e-d3604f482bd5": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources",
+    "value": {}
+  },
+  "9b3d5bf8-b09b-419c-a83a-d6a7db7db41e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Expression",
+    "value": {}
+  },
+  "87f6e211-b1d5-4913-964c-0a318cfa2d71": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/HarmonicMotion",
+    "value": {}
+  },
+  "48bc2586-6dbb-4150-a4d9-5bc5d2ec47a8": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Json",
+    "value": {}
+  },
+  "16723cd4-5395-41dc-8d16-f33c3be59762": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/LookAt",
+    "value": {}
+  },
+  "feb209fd-c4a3-4172-bbde-9e204e29f2cf": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/MotionFade",
+    "value": {}
+  },
+  "f037a334-c283-44ad-8954-4e8b5fe51d4c": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/MouthMovement",
+    "value": {}
+  },
+  "0cb8a707-24da-4778-b43e-6e686a806cd7": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Physics",
+    "value": {}
+  },
+  "fa6da1f5-4705-4d22-b0b3-60eb01139452": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Pose",
+    "value": {}
+  },
+  "59aaf7a8-d05f-4768-834f-6c5c75f8de54": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Raycasting",
+    "value": {}
+  },
+  "a94d8d17-90cd-48ea-8692-16f9a2325f5c": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/UserData",
+    "value": {}
+  },
+  "042f0f6a-c0c9-4f84-9418-095f98cadf72": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/Masking",
+    "value": {}
+  },
+  "be24bf2d-8b22-4170-831f-2545b51e0ac1": {
+    "url": "db://live2d_cubismsdk_cocoscreator/SampleScripts/OriginalWorkflow",
+    "value": {}
+  },
+  "61e62fcc-bbb6-47fd-b1f7-b9d4d75e7ea8": {
+    "url": "db://live2d_cubismsdk_cocoscreator/SampleScripts/Raycasting",
+    "value": {}
+  },
+  "d97cad74-e495-4e1e-8d33-690a8b79ac52": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials",
+    "value": {}
+  },
+  "0a8f9eb7-de62-46ec-8edb-5fcdcdb023a1": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples",
+    "value": {}
+  },
+  "f5ae9b5e-dea4-4be6-8fa6-575c2feb8a4c": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Shaders",
+    "value": {}
+  },
+  "777f081e-1d51-4f1c-abe1-c2300f30a6dc": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/WebAssembly",
+    "value": {}
+  },
+  "28e73ab4-485f-4b45-92f2-10c7a5b51e02": {
+    "url": "db://live2d_cubismsdk_cocoscreator/SampleScripts/OriginalWorkflow/Expression",
+    "value": {}
+  },
+  "e6574022-851d-43e3-bb7e-16fbfae85cbb": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Animation",
+    "value": {}
+  },
+  "2968e325-cf57-4465-998c-a289f41f94f6": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/LookAt",
+    "value": {}
+  },
+  "5efe7493-b943-4b70-8a1f-281118a7f554": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models",
+    "value": {}
+  },
+  "aa8f3244-527a-46d8-97aa-5b137e66e3e4": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/MultipleModels",
+    "value": {}
+  },
+  "d492d4f8-e46d-428b-9657-55658e135f70": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/OriginalWorkflow",
+    "value": {}
+  },
+  "ef38166d-dd79-4e58-a2a9-57b6ae165ec6": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/PerspectiveCamera",
+    "value": {}
+  },
+  "cc757de2-b1a9-4d43-bf94-258944346c73": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Raycasting",
+    "value": {}
+  },
+  "6d75178b-98d6-4fcc-b1bc-8abc45660442": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Clipping",
+    "value": {}
+  },
+  "530965f5-adc3-44b1-89b1-b6e182842cad": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Koharu",
+    "value": {}
+  },
+  "47949c36-53f5-453d-a72c-6434a7d00614": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao",
+    "value": {}
+  },
+  "97d91b20-2ed5-455d-bf55-6477f9e9e151": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori",
+    "value": {}
+  },
+  "859019a6-3db8-4d84-b3da-f81c6e0f1f50": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice",
+    "value": {}
+  },
+  "3aa4c640-6aa8-423b-a26e-5ba575eceda5": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko",
+    "value": {}
+  },
+  "8b46add3-a900-4cc2-be5c-e66d1b8a651c": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/OriginalWorkflow/Expression",
+    "value": {}
+  },
+  "ae96a599-9dbb-485c-9b75-4f0eb49ca072": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Koharu/Animation",
+    "value": {}
+  },
+  "8fa79cae-9d1b-4f55-829d-2a5f056fa3c4": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/expressions",
+    "value": {}
+  },
+  "dda92739-f627-456a-a992-ec5f3329f69a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions",
+    "value": {}
+  },
+  "88ad9434-caf5-465b-aead-4683359b76f5": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp",
+    "value": {}
+  },
+  "125f3712-6a11-4d45-a5fe-eb8b07678fae": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions",
+    "value": {}
+  },
+  "b3fb02a0-e895-460b-a872-17951088b04a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/motions",
+    "value": {}
+  },
+  "1f6d5fcc-cf70-4cfe-8cc6-87ef94c1462c": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions",
+    "value": {}
+  },
+  "51b120e1-50ad-4995-aa3c-7c112a190134": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Shaders/CubismGetClippedMaskChannel.chunk",
+    "value": {}
+  },
+  "17d7cbe6-5449-4a68-b114-e7a11f049fac": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Shaders/CubismGetMaskChannel.chunk",
+    "value": {}
+  },
+  "e0e131a1-e631-4046-81e7-e2ded307ba59": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Shaders/CubismMaskShaderVariables.chunk",
+    "value": {}
+  },
+  "d793fc2b-923c-4e70-9a26-17a1e7b94071": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Shaders/CubismSampleMaskTexture.chunk",
+    "value": {}
+  },
+  "39afd419-559b-4a31-82de-63c442d65de1": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Shaders/CubismToMaskClipPos.chunk",
+    "value": {}
+  },
+  "31b1a000-6a7c-435c-acde-be220cf74e1a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Shaders/CubismToMaskCoordinates.chunk",
+    "value": {}
+  },
+  "dd56bcaf-43dc-442b-a3b6-19b1e0dbcdce": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Shaders/MaskFrag.chunk",
+    "value": {}
+  },
+  "753b50a2-2251-4540-9574-fb68eb03552b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Shaders/MaskVert.chunk",
+    "value": {}
+  },
+  "3d1ff7b3-65b2-471f-9f07-dc775f684151": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Shaders/UnlitFrag.chunk",
+    "value": {}
+  },
+  "2a0bbe84-60a0-49a2-a2cc-7a4ef757895e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Shaders/UnlitVert.chunk",
+    "value": {}
+  },
+  "30784a3e-ff54-4ccf-a63a-5f9f2d248b6b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Shaders/Mask.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "2e3720c8-f118-4e51-914c-1cd3fc642d4b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Shaders/Unlit.effect",
+    "value": {
+      "depends": []
+    }
+  },
+  "c33f1bda-45be-4d06-91bf-05a10aa97afb": {
+    "url": "db://live2d_cubismsdk_cocoscreator/CubismCore.ts",
+    "value": {}
+  },
+  "48c7bf6d-a9fb-4f95-9c02-646e56b2ee28": {
+    "url": "db://live2d_cubismsdk_cocoscreator/IStructLike.ts",
+    "value": {}
+  },
+  "a861d19e-311f-4682-bacb-99cd191f461e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Live2DCubismCore.d.ts",
+    "value": {}
+  },
+  "67c4148c-3285-4df8-b0e1-4c1a63256169": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Live2DCubismCore.js",
+    "value": {}
+  },
+  "e05edb03-a3f0-4b98-9f81-162fe07175d3": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Utils.ts",
+    "value": {}
+  },
+  "60df18bc-fa35-48e0-97f7-ef382c28cafb": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Core/ArrayExtensionMethods.ts",
+    "value": {}
+  },
+  "fa383882-3216-4894-a3d6-f9cf024fada5": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Core/ComponentExtensionMethods.ts",
+    "value": {}
+  },
+  "1d91dd03-f122-455a-af35-de416d130959": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Core/CubismCanvasInformation.ts",
+    "value": {}
+  },
+  "589fa2d4-495b-4cdd-afcc-dfa766427c52": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Core/CubismDrawable.ts",
+    "value": {}
+  },
+  "bb95563a-3162-4e6d-a515-ccdd7965c23d": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Core/CubismDynamicDrawableData.ts",
+    "value": {}
+  },
+  "e23a0508-f138-44c0-8d4e-81fbe06b6d7b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Core/CubismGeometry.ts",
+    "value": {}
+  },
+  "da146f84-5f23-4a13-8c22-1ee81fbd66c0": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Core/CubismMoc.ts",
+    "value": {}
+  },
+  "2c000ab8-7fb6-4bae-842f-f13138e80a65": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Core/CubismModel.ts",
+    "value": {}
+  },
+  "bdbcb377-f057-4067-9a53-0e594018f16f": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Core/CubismParameter.ts",
+    "value": {}
+  },
+  "a66cafdf-fe97-4e8f-9d2a-800f801b7cfb": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Core/CubismPart.ts",
+    "value": {}
+  },
+  "1f04287c-c69b-49fb-8e76-52d5335db0e0": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Core/CubismTaskQueue.ts",
+    "value": {}
+  },
+  "6a963d99-84e2-4e14-b4c5-acee0eeff9e5": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Core/CubismTaskableModel.ts",
+    "value": {}
+  },
+  "95db4e75-f0f6-44b7-954d-28c4e0e4c537": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Core/CubismVector.ts",
+    "value": {}
+  },
+  "c0e95a09-be73-43d1-933c-b7f802588e51": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Core/ICubismTask.ts",
+    "value": {}
+  },
+  "56a64cb6-709c-4323-8e57-a56ec90568a3": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/ComponentExtensionMethods.ts",
+    "value": {}
+  },
+  "354ce953-58de-4367-bff4-c453e26d787e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/CubismAutoEyeBlinkInput.ts",
+    "value": {}
+  },
+  "aaf66886-34e5-46a4-9d13-71020a80b837": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/CubismDisplayInfoParameterName.ts",
+    "value": {}
+  },
+  "83f4df95-3069-4c46-98fa-62198b4c4624": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/CubismDisplayInfoPartName.ts",
+    "value": {}
+  },
+  "6a280d28-6e94-48e6-8702-93d439775cb1": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/CubismEyeBlinkController.ts",
+    "value": {}
+  },
+  "3476fbfb-4797-4e85-a489-9c0b8f80856f": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/CubismEyeBlinkParameter.ts",
+    "value": {}
+  },
+  "f245584a-cf49-4920-8542-3f792cd011fd": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/CubismHitDrawable.ts",
+    "value": {}
+  },
+  "e37a29fd-d230-4bd6-8545-de62b899bff4": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/CubismMotionApplier.ts",
+    "value": {}
+  },
+  "11b400b9-3383-4411-876d-b0c218ca5a64": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/CubismParameterBlendMode.ts",
+    "value": {}
+  },
+  "db4a4b62-0b91-4824-b0e7-db53d1985065": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/CubismParameterExtensionMethods.ts",
+    "value": {}
+  },
+  "80102f8f-51a6-45f7-b072-d34a6e797aba": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/CubismParameterStore.ts",
+    "value": {}
+  },
+  "7471e0cf-5f2a-4c15-b927-729216e15097": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/CubismParametersInspector.ts",
+    "value": {}
+  },
+  "5c2c4ea6-5ad3-451e-b13b-3211a35584e9": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/CubismPartsInspector.ts",
+    "value": {}
+  },
+  "7485fe9e-4c76-4145-8dd6-114f950e117c": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/CubismResources.ts",
+    "value": {}
+  },
+  "33421f81-4f2f-4a58-b1ca-b5a6920d11a1": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/CubismUpdateController.ts",
+    "value": {}
+  },
+  "8c675d8c-4f62-4539-a227-174308576bbf": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/CubismUpdateExecutionOrder.ts",
+    "value": {}
+  },
+  "2ad44d94-a69d-4c01-a6a5-0b6ed3924bd2": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/ICubismUpdatable.ts",
+    "value": {}
+  },
+  "f89311d2-5ee0-4bde-b44b-1cd7ed148b10": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/ObjectExtensionMethods.ts",
+    "value": {}
+  },
+  "1c0c40d8-f1a2-45eb-8150-14ea4f70e6b9": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/ArrayExtensionMethods.ts",
+    "value": {}
+  },
+  "0b91c731-b5c9-43c4-aed5-4f2d45f7c069": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/CubismBuiltinMaterials.ts",
+    "value": {}
+  },
+  "f3f56520-f1b4-42f3-be8d-1e498551221c": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/CubismBuiltinShaders.ts",
+    "value": {}
+  },
+  "9015eb47-ce0c-47d1-9c0a-0d6776fc6bfc": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/CubismMeshPrimitive.ts",
+    "value": {}
+  },
+  "36506a1a-e7b3-45c1-a9ed-e532c1b29766": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/CubismRenderController.ts",
+    "value": {}
+  },
+  "91ecb0ed-d672-4e39-b8b7-8d3ae5bf08b4": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/CubismRenderer.ts",
+    "value": {}
+  },
+  "e78e62cb-2db0-473e-96d3-252a4b18e99c": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/CubismShaderVariables.ts",
+    "value": {}
+  },
+  "caec40c7-d709-4436-8d1a-00def686afaf": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/CubismSortingMode.ts",
+    "value": {}
+  },
+  "50a138a1-c9af-4f87-8ca4-504dcf5e3ae4": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/ICubismBlendColorHandler.ts",
+    "value": {}
+  },
+  "649826c8-13b9-43c5-8710-d26de2c04a5c": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/ICubismDrawOrderHandler.ts",
+    "value": {}
+  },
+  "a226543d-b1d4-4365-a210-fc568ebbb791": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/ICubismOpacityHandler.ts",
+    "value": {}
+  },
+  "cc05fe5b-7ba6-4751-9006-8d5bc7166cfc": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/GlobalMaskTexture.asset",
+    "value": {}
+  },
+  "353402c8-fd25-4c1f-81e2-5083284b956d": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Expression/CubismExpressionController.ts",
+    "value": {}
+  },
+  "85cbd443-206c-40b8-b9cc-2adc8052b3fb": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Expression/CubismExpressionData.ts",
+    "value": {}
+  },
+  "05102147-a24b-4cb6-a1b5-cff613288fc6": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Expression/CubismExpressionList.ts",
+    "value": {}
+  },
+  "7cbb3c6e-6cb7-49f2-b6ec-4a48326d8213": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Expression/CubismPlayingExpression.ts",
+    "value": {}
+  },
+  "05db3f30-4668-42de-a96e-097dea7199b9": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/HarmonicMotion/CubismHarmonicMotionController.ts",
+    "value": {}
+  },
+  "c9c6a298-34fa-4afd-82cc-4490ef34aa99": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/HarmonicMotion/CubismHarmonicMotionDirection.ts",
+    "value": {}
+  },
+  "1a54efa4-549f-4d55-a114-ed459f70346f": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/HarmonicMotion/CubismHarmonicMotionParameter.ts",
+    "value": {}
+  },
+  "fcec6871-fcf9-4c83-a64e-3f52a94a8f4b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Json/CubismBuiltinPickers.ts",
+    "value": {}
+  },
+  "19ff9689-4ef1-4d64-94ba-cd649c8c23b3": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Json/CubismDisplayInfo3Json.ts",
+    "value": {}
+  },
+  "f1f18e65-a9c0-4102-a933-42c6d30051e6": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Json/CubismExp3Json.ts",
+    "value": {}
+  },
+  "930c2bc6-bf6f-4f00-b045-d2fa0c18cc6b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Json/CubismModel3Json.ts",
+    "value": {}
+  },
+  "436b1c9c-63b4-4e91-bf19-0fb24e4c2886": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Json/CubismMotion3Json.ts",
+    "value": {}
+  },
+  "d725946b-0ea8-4d43-8468-f194fdade7e8": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Json/CubismPhysics3Json.ts",
+    "value": {}
+  },
+  "1f13a520-3262-4379-9838-9464d443f81b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Json/CubismPose3Json.ts",
+    "value": {}
+  },
+  "f43a4363-de1b-43f8-8ea9-73573f8d9123": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Json/CubismUserData3Json.ts",
+    "value": {}
+  },
+  "d7930e35-c244-4f3b-a2cd-9c1e30cb311e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Json/IMaterialPicker.ts",
+    "value": {}
+  },
+  "888bd304-98ba-4add-a53a-506fd78e6c43": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Json/JsonParseUtils.ts",
+    "value": {}
+  },
+  "fbe33496-06db-4ada-8a30-359506a73497": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/LookAt/CubismLookAxis.ts",
+    "value": {}
+  },
+  "738e45c8-b7ec-492f-89dc-7a68e771adc4": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/LookAt/CubismLookController.ts",
+    "value": {}
+  },
+  "355e3e3d-664a-4222-bbec-36e4c0b10494": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/LookAt/CubismLookParameter.ts",
+    "value": {}
+  },
+  "e90f9946-ed0c-4add-8ea4-84e278123118": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/LookAt/CubismLookTargetBehaviour.ts",
+    "value": {}
+  },
+  "01a71e6b-a94c-4a6f-8c1f-6261d3ba100d": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/LookAt/ICubismLookTarget.ts",
+    "value": {}
+  },
+  "737a16b9-32f8-4ab7-9216-1bc1ba5f6df7": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/MotionFade/CubismFadeController.ts",
+    "value": {}
+  },
+  "64b6ba5d-f68b-4820-bd4e-9c967fd50c8d": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/MotionFade/CubismFadeCurveType.ts",
+    "value": {}
+  },
+  "49450007-28f7-4ab7-9339-e3623410fa6d": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/MotionFade/CubismFadeMath.ts",
+    "value": {}
+  },
+  "4d5816fc-c78f-42a6-826c-87e90f431022": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/MotionFade/CubismFadeMotionData.ts",
+    "value": {}
+  },
+  "e4ddfa2a-5857-4d0a-ba41-ce829b8e7b15": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/MotionFade/CubismFadeMotionList.ts",
+    "value": {}
+  },
+  "b2f7654e-0503-4254-8e31-500b22c32148": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/MotionFade/CubismFadePlayingMotion.ts",
+    "value": {}
+  },
+  "877a8409-c4ab-4ab7-9633-fe75730f1a89": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/MotionFade/CubismFadeStateObserver.ts",
+    "value": {}
+  },
+  "ce38d4c4-db39-4b06-b687-12cc1e14c33a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/MotionFade/CubismSerializableCurve.ts",
+    "value": {}
+  },
+  "4c16f608-c4b7-4384-a4fa-f5b0b048ca0f": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/MotionFade/CubismSerializableKeyFrame.ts",
+    "value": {}
+  },
+  "cc8785f2-dd49-4dc9-88a5-338815e24f1b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/MotionFade/ICubismFadeState.ts",
+    "value": {}
+  },
+  "ea14559c-0daa-48e4-8a80-180e77512174": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/MouthMovement/CubismAudioMouthInput.ts",
+    "value": {}
+  },
+  "79cf19b6-9fca-4a98-85ed-fb99c02b879a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/MouthMovement/CubismAudioSamplingQuality.ts",
+    "value": {}
+  },
+  "5b8aa95b-8996-401c-8f13-7453efe31495": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/MouthMovement/CubismAutoMouthInput.ts",
+    "value": {}
+  },
+  "1ab7e149-8bd3-44bd-a7bb-0278fe021e78": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/MouthMovement/CubismMouthController.ts",
+    "value": {}
+  },
+  "8f85acbc-7ac9-45d4-bb14-bca7ccfdc690": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/MouthMovement/CubismMouthParameter.ts",
+    "value": {}
+  },
+  "d69e07d5-912f-454d-8545-dccd174f82d5": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Physics/CubismPhysics.ts",
+    "value": {}
+  },
+  "ca488fbf-c4c7-4387-bf59-cb72b725c112": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Physics/CubismPhysicsController.ts",
+    "value": {}
+  },
+  "2562e7a9-b958-4926-b89f-151b07f7885a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Physics/CubismPhysicsInput.ts",
+    "value": {}
+  },
+  "85eb7e05-e17c-4680-9654-12db7457c01d": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Physics/CubismPhysicsMath.ts",
+    "value": {}
+  },
+  "cb269704-4113-4aaa-a4af-f5be3fbcad69": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Physics/CubismPhysicsNormalization.ts",
+    "value": {}
+  },
+  "f6fc05bb-e02e-4d55-8a65-85db38a3a1e9": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Physics/CubismPhysicsOutput.ts",
+    "value": {}
+  },
+  "5f186b00-6051-41e0-9110-0c14e6a7d52c": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Physics/CubismPhysicsParticle.ts",
+    "value": {}
+  },
+  "2e307141-9fb6-4da7-8bc9-912d8de5c4ca": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Physics/CubismPhysicsRig.ts",
+    "value": {}
+  },
+  "dc097e88-fd84-43c7-9606-6257864eb262": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Physics/CubismPhysicsSourceComponent.ts",
+    "value": {}
+  },
+  "561c4424-c008-4d93-8222-974d922aa03f": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Physics/CubismPhysicsSubRig.ts",
+    "value": {}
+  },
+  "07045621-4239-418b-b3e3-4e215f90d8b0": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Pose/CubismPoseController.ts",
+    "value": {}
+  },
+  "7d242d96-ebac-4f33-8d19-94a45313081f": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Pose/CubismPoseData.ts",
+    "value": {}
+  },
+  "35dee19b-bc7a-4541-bd63-389730b10c61": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Pose/CubismPosePart.ts",
+    "value": {}
+  },
+  "3e457867-e376-49e6-9eb6-ecd334fed50d": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Raycasting/CubismRaycastHit.ts",
+    "value": {}
+  },
+  "361393f2-6e20-4913-a55a-0634f726f441": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Raycasting/CubismRaycastable.ts",
+    "value": {}
+  },
+  "650c979a-d342-4ee1-b3b3-99c115295e31": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Raycasting/CubismRaycastablePrecision.ts",
+    "value": {}
+  },
+  "5d5fc9ee-f1e7-4eb1-8797-6ec14afb77cf": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/Raycasting/CubismRaycaster.ts",
+    "value": {}
+  },
+  "64b53684-ecf0-423b-9af1-1d1dcfc793be": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/UserData/CubismUserDataBody.ts",
+    "value": {}
+  },
+  "9fff4f8b-9c90-4942-bb4b-75f2cf2e4283": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/UserData/CubismUserDataTag.ts",
+    "value": {}
+  },
+  "d56f15cb-1bb6-44ae-a14f-53dbd2705879": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Framework/UserData/CubismUserDataTargetType.ts",
+    "value": {}
+  },
+  "9d204bc1-01e5-4e13-b35e-6afdc2b03ff7": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/Masking/CubismMaskCommandBuffer.ts",
+    "value": {}
+  },
+  "a8010826-e6f3-4d05-b5df-12a185ee0bdd": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/Masking/CubismMaskController.ts",
+    "value": {}
+  },
+  "dcd2be6f-f52f-451e-9f92-ee6cfd2de734": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/Masking/CubismMaskMaskedJunction.ts",
+    "value": {}
+  },
+  "1793d97b-fd61-40cc-9a7e-6532cffbcb37": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/Masking/CubismMaskProperties.ts",
+    "value": {}
+  },
+  "306f5774-2ec9-4a74-b220-42fd301c29bd": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/Masking/CubismMaskRenderer.ts",
+    "value": {}
+  },
+  "25bae5d9-49e3-4228-a5b6-9e6c1fa873bb": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/Masking/CubismMaskRendererExtensionMethods.ts",
+    "value": {}
+  },
+  "3568783a-2222-460e-9510-1b97f251cfe7": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/Masking/CubismMaskTexture.ts",
+    "value": {}
+  },
+  "022d2089-62d2-404c-9277-2035acb2973a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/Masking/CubismMaskTile.ts",
+    "value": {}
+  },
+  "9e9cd8bf-ef8e-4497-bb39-0cb0fc9691b6": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/Masking/CubismMaskTilePool.ts",
+    "value": {}
+  },
+  "50fe248d-1aad-438f-80bd-fed6ecd0c5ba": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/Masking/CubismMaskTransform.ts",
+    "value": {}
+  },
+  "34d907c5-339f-456c-b178-ab9746280b24": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/Masking/ICubismMaskCommandSource.ts",
+    "value": {}
+  },
+  "6d5378c4-03df-4827-bccc-a580bc1dcbb4": {
+    "url": "db://live2d_cubismsdk_cocoscreator/Rendering/Masking/ICubismMaskTextureCommandSource.ts",
+    "value": {}
+  },
+  "636a58a3-9e3e-493f-8676-b2d4aca6790b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/SampleScripts/Raycasting/RaycastHitDisplay.ts",
+    "value": {}
+  },
+  "9da5ab8b-5af4-4eff-af3d-8fb588dc3a5f": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/Mask.mtl",
+    "value": {
+      "depends": [
+        "30784a3e-ff54-4ccf-a63a-5f9f2d248b6b"
+      ]
+    }
+  },
+  "d4e27d73-6b9a-4f3a-ac1d-4cbeed7be1fe": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/MaskCulling.mtl",
+    "value": {
+      "depends": [
+        "30784a3e-ff54-4ccf-a63a-5f9f2d248b6b"
+      ]
+    }
+  },
+  "00f7219e-619d-4c04-855b-2eabb2e8bcc8": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/Unlit.mtl",
+    "value": {
+      "depends": [
+        "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+      ]
+    }
+  },
+  "8f4be102-82c3-414a-87b5-1d37d0334df9": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/UnlitAdditive.mtl",
+    "value": {
+      "depends": [
+        "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+      ]
+    }
+  },
+  "e1cb9114-4c37-437e-8195-8e118ef3d4ee": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/UnlitAdditiveCulling.mtl",
+    "value": {
+      "depends": [
+        "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+      ]
+    }
+  },
+  "1c73aed1-107f-47ef-a951-fc7918c199ad": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/UnlitAdditiveMasked.mtl",
+    "value": {
+      "depends": [
+        "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+      ]
+    }
+  },
+  "74f202c2-6acd-4cfe-8979-e86c785a4ccb": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/UnlitAdditiveMaskedCulling.mtl",
+    "value": {
+      "depends": [
+        "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+      ]
+    }
+  },
+  "627747c7-2390-4585-a070-b0832eef1544": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/UnlitAdditiveMaskedInverted.mtl",
+    "value": {
+      "depends": [
+        "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+      ]
+    }
+  },
+  "4fb0ddd5-1460-46d0-ac4e-7de80d58d6f7": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/UnlitAdditiveMaskedInvertedCulling.mtl",
+    "value": {
+      "depends": [
+        "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+      ]
+    }
+  },
+  "79680d68-a3a9-4c37-9cdd-4192f1a2e90e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/UnlitCulling.mtl",
+    "value": {
+      "depends": [
+        "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+      ]
+    }
+  },
+  "98e5d74e-fc60-43ba-8e80-233738ffcd49": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/UnlitMasked.mtl",
+    "value": {
+      "depends": [
+        "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+      ]
+    }
+  },
+  "b2895826-16c8-4cc3-8057-439e2d38ca00": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/UnlitMaskedCulling.mtl",
+    "value": {
+      "depends": [
+        "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+      ]
+    }
+  },
+  "742ada31-4256-4185-b94d-888d2398047d": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/UnlitMaskedInverted.mtl",
+    "value": {
+      "depends": [
+        "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+      ]
+    }
+  },
+  "06799f66-a91c-4e6b-95a4-282c959fd300": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/UnlitMaskedInvertedCulling.mtl",
+    "value": {
+      "depends": [
+        "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+      ]
+    }
+  },
+  "7c3a25f5-2bc2-4911-adf7-47b62a434c75": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/UnlitMultiply.mtl",
+    "value": {
+      "depends": [
+        "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+      ]
+    }
+  },
+  "9cc9e566-ca39-450c-86f5-36191bd6a1ed": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/UnlitMultiplyCulling.mtl",
+    "value": {
+      "depends": [
+        "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+      ]
+    }
+  },
+  "a605be42-e807-4b8d-a0e4-712d0cca5a71": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/UnlitMultiplyMasked.mtl",
+    "value": {
+      "depends": [
+        "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+      ]
+    }
+  },
+  "5818c156-bdb1-41d9-9778-3142b93841dc": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/UnlitMultiplyMaskedCulling.mtl",
+    "value": {
+      "depends": [
+        "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+      ]
+    }
+  },
+  "970e7b69-ec3a-49bf-8daa-185db5a4ac58": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/UnlitMultiplyMaskedInverted.mtl",
+    "value": {
+      "depends": [
+        "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+      ]
+    }
+  },
+  "f3d8143c-79c1-4f7e-8f8e-10df323b0b5f": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Materials/UnlitMultiplyMaskedInvertedCulling.mtl",
+    "value": {
+      "depends": [
+        "2e3720c8-f118-4e51-914c-1cd3fc642d4b"
+      ]
+    }
+  },
+  "0edf6b86-3311-4938-95bb-ebc7450e950e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/WebAssembly/CHANGELOG.md",
+    "value": {
+      "depends": []
+    }
+  },
+  "47ac869f-3efd-4fd5-87f3-96b4a5553c7f": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/WebAssembly/LICENSE.md",
+    "value": {
+      "depends": []
+    }
+  },
+  "2ae9481d-aa06-4cce-ae8e-bcecaf63d82b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/WebAssembly/Live2DCubismCore.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "7df46fee-95f7-4855-8dc4-cbbfbdc37a32": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/WebAssembly/README.en.md",
+    "value": {
+      "depends": []
+    }
+  },
+  "9a7a4bbd-c54e-41e8-aa02-a918ff447a17": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/WebAssembly/README.ja.md",
+    "value": {
+      "depends": []
+    }
+  },
+  "06aac793-a07f-4af7-af85-4dd605a2efa9": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/WebAssembly/RedistributableFiles.txt",
+    "value": {
+      "depends": []
+    }
+  },
+  "3b9e08be-a36c-424a-861a-e8c89a534d53": {
+    "url": "db://live2d_cubismsdk_cocoscreator/SampleScripts/OriginalWorkflow/Expression/CubismExpressionPreview.ts",
+    "value": {}
+  },
+  "77311d7e-de76-4497-a692-0d24eb0e1dcf": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Animation/Animation.scene",
+    "value": {
+      "depends": [
+        "77311d7e-de76-4497-a692-0d24eb0e1dcf",
+        "84827298-91a0-4cd5-b072-694507f11e9d",
+        "eb015df8-0b05-41d0-95a2-232680c9d1c1",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": [
+        "e37a29fd-d230-4bd6-8545-de62b899bff4",
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8"
+      ]
+    }
+  },
+  "eb015df8-0b05-41d0-95a2-232680c9d1c1": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Animation/Koharu.animgraph",
+    "value": {
+      "depends": [
+        "8e658bf0-6ec2-444d-96f0-562ae62dcd24"
+      ]
+    }
+  },
+  "44410d68-dcf5-4491-b584-825f9ba3368e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/LookAt/Billboarder.ts",
+    "value": {}
+  },
+  "34a55f2e-2699-4044-bf65-c43294079217": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/LookAt/Cubism.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "52ef81e4-e119-460f-8a59-0df31839440e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/LookAt/LookAt.scene",
+    "value": {
+      "depends": [
+        "52ef81e4-e119-460f-8a59-0df31839440e",
+        "ade8a15a-dcca-4b3c-84c6-f6476ac875bb",
+        "34a55f2e-2699-4044-bf65-c43294079217@f9941",
+        "942dc50b-b215-40ca-9266-02c16cfab5e0",
+        "84827298-91a0-4cd5-b072-694507f11e9d",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": [
+        "44410d68-dcf5-4491-b584-825f9ba3368e",
+        "e90f9946-ed0c-4add-8ea4-84e278123118",
+        "738e45c8-b7ec-492f-89dc-7a68e771adc4",
+        "355e3e3d-664a-4222-bbec-36e4c0b10494",
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8"
+      ]
+    }
+  },
+  "942dc50b-b215-40ca-9266-02c16cfab5e0": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/LookAt/Target.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "af058799-7673-4999-8cbf-0d5eceafc5a4": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/MultipleModels/MultipleModels.scene",
+    "value": {
+      "depends": [
+        "af058799-7673-4999-8cbf-0d5eceafc5a4",
+        "09c715a3-bde4-4607-9c2e-754511c7607c",
+        "84827298-91a0-4cd5-b072-694507f11e9d",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": [
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8"
+      ]
+    }
+  },
+  "041a08b3-0325-469d-b432-0423ed5fafc8": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/PerspectiveCamera/PerspectiveCamera.scene",
+    "value": {
+      "depends": [
+        "041a08b3-0325-469d-b432-0423ed5fafc8",
+        "84827298-91a0-4cd5-b072-694507f11e9d",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": [
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8"
+      ]
+    }
+  },
+  "160bbae6-e0be-4435-9b1b-751df44fb7e4": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Raycasting/Raycasting.scene",
+    "value": {
+      "depends": [
+        "160bbae6-e0be-4435-9b1b-751df44fb7e4",
+        "84827298-91a0-4cd5-b072-694507f11e9d",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": [
+        "5d5fc9ee-f1e7-4eb1-8797-6ec14afb77cf",
+        "361393f2-6e20-4913-a55a-0634f726f441",
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
+        "636a58a3-9e3e-493f-8676-b2d4aca6790b"
+      ]
+    }
+  },
+  "dca4eb63-45a4-433b-a3a3-7381296a1b6b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Clipping/Clipping.1024",
+    "value": {}
+  },
+  "d54c67b1-fd42-440f-98f5-13649d0b8134": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Clipping/Clipping.moc3",
+    "value": {}
+  },
+  "34a55f2e-2699-4044-bf65-c43294079217@6c48a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/LookAt/Cubism.png@6c48a",
+    "value": {
+      "depends": [
+        "34a55f2e-2699-4044-bf65-c43294079217"
+      ]
+    }
+  },
+  "5620c377-d6e7-4a9e-ba41-3a7a9d53054d": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Clipping/Clipping.model3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "09c715a3-bde4-4607-9c2e-754511c7607c": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Clipping/Clipping.prefab",
+    "value": {
+      "depends": [
+        "00f7219e-619d-4c04-855b-2eabb2e8bcc8",
+        "dd28d0e0-a8f6-4c56-91d2-dc865ffdb447@6c48a",
+        "98e5d74e-fc60-43ba-8e80-233738ffcd49",
+        "d54c67b1-fd42-440f-98f5-13649d0b8134"
+      ],
+      "dependScripts": [
+        "bdbcb377-f057-4067-9a53-0e594018f16f",
+        "589fa2d4-495b-4cdd-afcc-dfa766427c52",
+        "91ecb0ed-d672-4e39-b8b7-8d3ae5bf08b4",
+        "2c000ab8-7fb6-4bae-842f-f13138e80a65",
+        "7471e0cf-5f2a-4c15-b927-729216e15097",
+        "5c2c4ea6-5ad3-451e-b13b-3211a35584e9",
+        "36506a1a-e7b3-45c1-a9ed-e532c1b29766",
+        "a8010826-e6f3-4d05-b5df-12a185ee0bdd",
+        "33421f81-4f2f-4a58-b1ca-b5a6920d11a1",
+        "80102f8f-51a6-45f7-b072-d34a6e797aba",
+        "07045621-4239-418b-b3e3-4e215f90d8b0",
+        "353402c8-fd25-4c1f-81e2-5083284b956d",
+        "737a16b9-32f8-4ab7-9216-1bc1ba5f6df7"
+      ]
+    }
+  },
+  "b40ecc2c-244b-4af0-a99c-8e71db391bad": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Koharu/Koharu.2048",
+    "value": {}
+  },
+  "d2aecc5e-ec8d-43b3-9db1-d041757a3753": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Koharu/Koharu.fadeMotionList.asset",
+    "value": {
+      "depends": [
+        "f4244e8e-05f8-4dde-b1f3-b344be790e9f",
+        "662d1a3b-7aad-4f4f-aff7-f35b0ef73d79",
+        "78b343ba-916b-415f-95ab-ba0fdede38b6"
+      ]
+    }
+  },
+  "9bd4800f-8666-4c0a-87f2-f5e0d09fe2f5": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Koharu/Koharu.moc3",
+    "value": {}
+  },
+  "34a55f2e-2699-4044-bf65-c43294079217@f9941": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/LookAt/Cubism.png@f9941",
+    "value": {
+      "depends": [
+        "34a55f2e-2699-4044-bf65-c43294079217@6c48a"
+      ]
+    }
+  },
+  "2b1d6d91-8660-4e1b-b041-b1fe92069074": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Koharu/Koharu.model3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "84827298-91a0-4cd5-b072-694507f11e9d": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Koharu/Koharu.prefab",
+    "value": {
+      "depends": [
+        "00f7219e-619d-4c04-855b-2eabb2e8bcc8",
+        "0b468872-56d4-44f6-9029-432beda53b77@6c48a",
+        "9bd4800f-8666-4c0a-87f2-f5e0d09fe2f5"
+      ],
+      "dependScripts": [
+        "bdbcb377-f057-4067-9a53-0e594018f16f",
+        "3476fbfb-4797-4e85-a489-9c0b8f80856f",
+        "a66cafdf-fe97-4e8f-9d2a-800f801b7cfb",
+        "589fa2d4-495b-4cdd-afcc-dfa766427c52",
+        "91ecb0ed-d672-4e39-b8b7-8d3ae5bf08b4",
+        "2c000ab8-7fb6-4bae-842f-f13138e80a65",
+        "7471e0cf-5f2a-4c15-b927-729216e15097",
+        "5c2c4ea6-5ad3-451e-b13b-3211a35584e9",
+        "36506a1a-e7b3-45c1-a9ed-e532c1b29766",
+        "6a280d28-6e94-48e6-8702-93d439775cb1",
+        "33421f81-4f2f-4a58-b1ca-b5a6920d11a1",
+        "80102f8f-51a6-45f7-b072-d34a6e797aba",
+        "07045621-4239-418b-b3e3-4e215f90d8b0",
+        "353402c8-fd25-4c1f-81e2-5083284b956d",
+        "737a16b9-32f8-4ab7-9216-1bc1ba5f6df7"
+      ]
+    }
+  },
+  "500f01a3-8959-47bc-bbc1-b52de6c8391d": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/Mao.2048",
+    "value": {}
+  },
+  "8d23ab84-c661-4599-85ee-c7d33b31511a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/Mao.cdi3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "f57fcd21-498a-42cd-bcee-e219536a3e10": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/Mao.expressionList.asset",
+    "value": {
+      "depends": [
+        "11f4e56a-3169-4927-9275-06c8cd8f917b",
+        "74b5ba5c-7fe1-4713-8c59-7f2812e97f54",
+        "b93418c7-39c3-412c-b787-edef0e07bb28",
+        "9d3a7309-f849-413b-a74f-79ece7468d7b",
+        "8459b30a-f81c-4d6c-b4c4-0bd34e784685",
+        "6d4867dd-8666-4512-a224-0ea999149279",
+        "d8962482-b4e1-4866-b109-05fbd334af2a",
+        "a3a6cfa0-9e35-4b67-90a8-9ea9d0d56b04"
+      ]
+    }
+  },
+  "52a670fd-2935-4809-9bc3-090afbeb8467": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/Mao.fadeMotionList.asset",
+    "value": {
+      "depends": [
+        "fc07dde7-1882-46f3-881b-0751eb448e96",
+        "f94e692a-f39b-4fb1-8269-af93118ed36f",
+        "198cdb89-5162-40ad-81f1-7917fe132aa1",
+        "7b401dae-8e27-4c15-acce-29fc89c14385",
+        "34a94b42-d2b7-408e-8834-e718047d1778",
+        "9a5f1777-ef06-4376-a010-66eef50b9793"
+      ]
+    }
+  },
+  "d82f7588-2d03-4219-b65a-9afc79594f8b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/Mao.moc3",
+    "value": {}
+  },
+  "7ae4bb81-e6b8-42fe-903c-9a8d99254986": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/Mao.model3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "9fe108c5-440c-4d3d-a468-e35aad364eb4": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/Mao.physics3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "78dc25e8-5440-4c54-8a74-0667849b580e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/Mao.pose3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "ab49e891-3636-4cc8-9148-c7e1cedf109e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/Mao.prefab",
+    "value": {
+      "depends": [
+        "00f7219e-619d-4c04-855b-2eabb2e8bcc8",
+        "7593f365-db94-47d1-820e-31ab2ec74e05@6c48a",
+        "742ada31-4256-4185-b94d-888d2398047d",
+        "a605be42-e807-4b8d-a0e4-712d0cca5a71",
+        "98e5d74e-fc60-43ba-8e80-233738ffcd49",
+        "7c3a25f5-2bc2-4911-adf7-47b62a434c75",
+        "8f4be102-82c3-414a-87b5-1d37d0334df9",
+        "d82f7588-2d03-4219-b65a-9afc79594f8b",
+        "f57fcd21-498a-42cd-bcee-e219536a3e10"
+      ],
+      "dependScripts": [
+        "bdbcb377-f057-4067-9a53-0e594018f16f",
+        "aaf66886-34e5-46a4-9d13-71020a80b837",
+        "3476fbfb-4797-4e85-a489-9c0b8f80856f",
+        "a66cafdf-fe97-4e8f-9d2a-800f801b7cfb",
+        "83f4df95-3069-4c46-98fa-62198b4c4624",
+        "35dee19b-bc7a-4541-bd63-389730b10c61",
+        "589fa2d4-495b-4cdd-afcc-dfa766427c52",
+        "91ecb0ed-d672-4e39-b8b7-8d3ae5bf08b4",
+        "f245584a-cf49-4920-8542-3f792cd011fd",
+        "361393f2-6e20-4913-a55a-0634f726f441",
+        "2c000ab8-7fb6-4bae-842f-f13138e80a65",
+        "7471e0cf-5f2a-4c15-b927-729216e15097",
+        "5c2c4ea6-5ad3-451e-b13b-3211a35584e9",
+        "36506a1a-e7b3-45c1-a9ed-e532c1b29766",
+        "6a280d28-6e94-48e6-8702-93d439775cb1",
+        "a8010826-e6f3-4d05-b5df-12a185ee0bdd",
+        "33421f81-4f2f-4a58-b1ca-b5a6920d11a1",
+        "80102f8f-51a6-45f7-b072-d34a6e797aba",
+        "07045621-4239-418b-b3e3-4e215f90d8b0",
+        "353402c8-fd25-4c1f-81e2-5083284b956d",
+        "737a16b9-32f8-4ab7-9216-1bc1ba5f6df7",
+        "ca488fbf-c4c7-4387-bf59-cb72b725c112"
+      ]
+    }
+  },
+  "c9051c87-83b5-4239-b128-d49e5a401f69": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/Natori.2048",
+    "value": {}
+  },
+  "eb1eeb67-5341-40e6-a8fc-9878a86b7198": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/Natori.expressionList.asset",
+    "value": {
+      "depends": [
+        "6b891945-a8ab-4f12-95b9-912c6ca6d107",
+        "4d5b11e6-b1a8-4f94-b8cc-348a5a5990ef",
+        "92b48232-63f5-4fe0-8436-a12d4c2b655e",
+        "6c65789a-7b02-4b7e-8c87-ffdcf5bbeac2",
+        "22bc3c90-60ac-45a9-95ac-edfcae1582e1",
+        "73ed3056-592d-4760-a7f5-09a626204358",
+        "8c6066d4-5c3d-432f-94d9-ccfe8399c911",
+        "c4c9fe42-543a-41c2-9d22-eb46c2720360",
+        "18df9aeb-af38-4d92-97bc-9ec3cc7a4a02",
+        "9cb3a21a-3bdd-4f79-b5b6-1410b856f820",
+        "7b76607d-7d8c-4e3f-8829-57cca35ddad0"
+      ]
+    }
+  },
+  "3e884f87-3742-4ff9-a5af-d551ad479f65": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/Natori.fadeMotionList.asset",
+    "value": {
+      "depends": [
+        "f77540bf-b9c2-42d5-92da-3f99250f8d43",
+        "de166355-9536-400c-85e6-64a69eb808f2",
+        "2ca64968-6a66-4613-aa46-1b8991cadd9c",
+        "b7d17b5d-d16b-45bf-9dc3-01802b87c04d",
+        "9f684667-731a-478b-9aac-88af6fb4b3c2",
+        "34a35f60-3b29-4712-acb3-72cb9fd4cd74",
+        "68b5d8ee-0d20-4acf-b0b7-7c0f39c719c4",
+        "75d7e01e-7fa3-49e0-8c5f-2de7331ba5db",
+        "0430b5f6-8646-42fd-a3d0-efc224259afc"
+      ]
+    }
+  },
+  "9d4a8e2f-9c8b-484a-a255-9b541c70c979": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/Natori.moc3",
+    "value": {}
+  },
+  "88ff0488-6939-46e1-bfeb-ab9858896de5": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/Natori.model3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "5310e53a-9625-41d8-aa9e-9536327e9708": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/Natori.physics3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "6df53dbd-d2bf-4c1a-8e66-45178e831410": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/Natori.pose3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "b5706fa1-9edb-4ece-9ca4-c86b971879d3": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/Natori.prefab",
+    "value": {
+      "depends": [
+        "00f7219e-619d-4c04-855b-2eabb2e8bcc8",
+        "b0a7a751-b3a0-4ecf-a2e8-e1998417ffd0@6c48a",
+        "98e5d74e-fc60-43ba-8e80-233738ffcd49",
+        "7c3a25f5-2bc2-4911-adf7-47b62a434c75",
+        "9d4a8e2f-9c8b-484a-a255-9b541c70c979",
+        "eb1eeb67-5341-40e6-a8fc-9878a86b7198"
+      ],
+      "dependScripts": [
+        "bdbcb377-f057-4067-9a53-0e594018f16f",
+        "3476fbfb-4797-4e85-a489-9c0b8f80856f",
+        "8f85acbc-7ac9-45d4-bb14-bca7ccfdc690",
+        "a66cafdf-fe97-4e8f-9d2a-800f801b7cfb",
+        "35dee19b-bc7a-4541-bd63-389730b10c61",
+        "589fa2d4-495b-4cdd-afcc-dfa766427c52",
+        "91ecb0ed-d672-4e39-b8b7-8d3ae5bf08b4",
+        "f245584a-cf49-4920-8542-3f792cd011fd",
+        "361393f2-6e20-4913-a55a-0634f726f441",
+        "2c000ab8-7fb6-4bae-842f-f13138e80a65",
+        "7471e0cf-5f2a-4c15-b927-729216e15097",
+        "5c2c4ea6-5ad3-451e-b13b-3211a35584e9",
+        "36506a1a-e7b3-45c1-a9ed-e532c1b29766",
+        "6a280d28-6e94-48e6-8702-93d439775cb1",
+        "1ab7e149-8bd3-44bd-a7bb-0278fe021e78",
+        "a8010826-e6f3-4d05-b5df-12a185ee0bdd",
+        "33421f81-4f2f-4a58-b1ca-b5a6920d11a1",
+        "80102f8f-51a6-45f7-b072-d34a6e797aba",
+        "07045621-4239-418b-b3e3-4e215f90d8b0",
+        "353402c8-fd25-4c1f-81e2-5083284b956d",
+        "737a16b9-32f8-4ab7-9216-1bc1ba5f6df7",
+        "ca488fbf-c4c7-4387-bf59-cb72b725c112"
+      ]
+    }
+  },
+  "2cbbf37a-d237-440f-ab7a-a630c91bae8c": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/Rice.2048",
+    "value": {}
+  },
+  "03c86504-ece0-4182-9617-6080227d4276": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/Rice.cdi3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "4b9c069c-3d70-4177-a8f0-77eb0bad7c18": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/Rice.fadeMotionList.asset",
+    "value": {
+      "depends": [
+        "48ffa38b-d9c9-4031-a0c2-66326f597b35",
+        "46c8f2d1-afe8-40b4-b3ed-2848a8eb5fa2",
+        "1227dfbd-4fec-4b98-8106-83f994d6db8b",
+        "8a6ffca5-a6fa-413d-a8b4-c49a7f794ec5"
+      ]
+    }
+  },
+  "995c7403-5d10-4de7-8a85-05537a07a593": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/Rice.moc3",
+    "value": {}
+  },
+  "af0a8b4a-3830-49d5-a0ac-d7ed9544502b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/Rice.model3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "54cd73c2-9e0f-4658-8ad8-e5d6d96bbadc": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/Rice.physics3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "ade5ab2b-85ad-4e81-8c3a-558676de8ff1": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/Rice.prefab",
+    "value": {
+      "depends": [
+        "00f7219e-619d-4c04-855b-2eabb2e8bcc8",
+        "822a2954-4461-4219-8ee9-dc1de08407f9@6c48a",
+        "742ada31-4256-4185-b94d-888d2398047d",
+        "98e5d74e-fc60-43ba-8e80-233738ffcd49",
+        "cd21981d-54aa-4f83-8170-92b1e64974bd@6c48a",
+        "8f4be102-82c3-414a-87b5-1d37d0334df9",
+        "79680d68-a3a9-4c37-9cdd-4192f1a2e90e",
+        "995c7403-5d10-4de7-8a85-05537a07a593"
+      ],
+      "dependScripts": [
+        "bdbcb377-f057-4067-9a53-0e594018f16f",
+        "aaf66886-34e5-46a4-9d13-71020a80b837",
+        "3476fbfb-4797-4e85-a489-9c0b8f80856f",
+        "a66cafdf-fe97-4e8f-9d2a-800f801b7cfb",
+        "83f4df95-3069-4c46-98fa-62198b4c4624",
+        "589fa2d4-495b-4cdd-afcc-dfa766427c52",
+        "91ecb0ed-d672-4e39-b8b7-8d3ae5bf08b4",
+        "f245584a-cf49-4920-8542-3f792cd011fd",
+        "361393f2-6e20-4913-a55a-0634f726f441",
+        "2c000ab8-7fb6-4bae-842f-f13138e80a65",
+        "7471e0cf-5f2a-4c15-b927-729216e15097",
+        "5c2c4ea6-5ad3-451e-b13b-3211a35584e9",
+        "36506a1a-e7b3-45c1-a9ed-e532c1b29766",
+        "6a280d28-6e94-48e6-8702-93d439775cb1",
+        "a8010826-e6f3-4d05-b5df-12a185ee0bdd",
+        "33421f81-4f2f-4a58-b1ca-b5a6920d11a1",
+        "80102f8f-51a6-45f7-b072-d34a6e797aba",
+        "07045621-4239-418b-b3e3-4e215f90d8b0",
+        "353402c8-fd25-4c1f-81e2-5083284b956d",
+        "737a16b9-32f8-4ab7-9216-1bc1ba5f6df7",
+        "ca488fbf-c4c7-4387-bf59-cb72b725c112"
+      ]
+    }
+  },
+  "89ea8ea9-d8c1-48c4-a0d4-1f22b234112a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/Wanko.1024",
+    "value": {}
+  },
+  "c62e8122-c1d3-4a07-904e-e236f875c4cd": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/Wanko.cdi3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "b021ff87-c10e-4f9f-8c3c-bff3f83632a1": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/Wanko.fadeMotionList.asset",
+    "value": {
+      "depends": [
+        "bf2c035d-c311-41ad-9920-63c8ec04bdff",
+        "9235540a-6fc4-4f06-a2e9-6e0b976c59cd",
+        "1b64dd7a-9a18-4710-956c-712a7199c61e",
+        "fccaf88a-8312-45fe-8d4d-f37c0e9d659f",
+        "717227d0-4d14-46a5-9777-d3bb0f802023",
+        "0fde3d69-d1a1-4e8b-9820-c10b615d6055",
+        "49f05107-be3a-4b8b-ae12-7b3deabd1f3f",
+        "b6a6b456-3119-4ae2-bb5a-966f42564e18",
+        "b90c16eb-03fc-4679-b945-9cbba2ba1d0b",
+        "7c9f23e1-742b-42b3-a486-c7f6cc5b70be",
+        "9154cd85-acee-401b-9932-21b79a757517",
+        "081e9610-b1af-40e6-93d9-55d561f6e767"
+      ]
+    }
+  },
+  "1ce1cd34-2eb6-489d-aa77-de030308982c": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/Wanko.moc3",
+    "value": {}
+  },
+  "559099ee-1b9f-4284-ba21-6577e8b5a8d4": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/Wanko.model3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "ff801716-04c5-4658-9885-e7a33dc302a9": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/Wanko.physics3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "37780468-7123-49a8-a760-88364f422ee6": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/Wanko.prefab",
+    "value": {
+      "depends": [
+        "79680d68-a3a9-4c37-9cdd-4192f1a2e90e",
+        "c8d80031-2d59-4e1a-928f-8ddc7c97c6a4@6c48a",
+        "00f7219e-619d-4c04-855b-2eabb2e8bcc8",
+        "1ce1cd34-2eb6-489d-aa77-de030308982c"
+      ],
+      "dependScripts": [
+        "bdbcb377-f057-4067-9a53-0e594018f16f",
+        "aaf66886-34e5-46a4-9d13-71020a80b837",
+        "3476fbfb-4797-4e85-a489-9c0b8f80856f",
+        "8f85acbc-7ac9-45d4-bb14-bca7ccfdc690",
+        "a66cafdf-fe97-4e8f-9d2a-800f801b7cfb",
+        "83f4df95-3069-4c46-98fa-62198b4c4624",
+        "589fa2d4-495b-4cdd-afcc-dfa766427c52",
+        "91ecb0ed-d672-4e39-b8b7-8d3ae5bf08b4",
+        "f245584a-cf49-4920-8542-3f792cd011fd",
+        "361393f2-6e20-4913-a55a-0634f726f441",
+        "2c000ab8-7fb6-4bae-842f-f13138e80a65",
+        "7471e0cf-5f2a-4c15-b927-729216e15097",
+        "5c2c4ea6-5ad3-451e-b13b-3211a35584e9",
+        "36506a1a-e7b3-45c1-a9ed-e532c1b29766",
+        "6a280d28-6e94-48e6-8702-93d439775cb1",
+        "1ab7e149-8bd3-44bd-a7bb-0278fe021e78",
+        "33421f81-4f2f-4a58-b1ca-b5a6920d11a1",
+        "80102f8f-51a6-45f7-b072-d34a6e797aba",
+        "07045621-4239-418b-b3e3-4e215f90d8b0",
+        "353402c8-fd25-4c1f-81e2-5083284b956d",
+        "737a16b9-32f8-4ab7-9216-1bc1ba5f6df7",
+        "ca488fbf-c4c7-4387-bf59-cb72b725c112"
+      ]
+    }
+  },
+  "42d255fa-7898-4726-9a1e-7ef6d643ed4e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/OriginalWorkflow/Expression/Expression.scene",
+    "value": {
+      "depends": [
+        "42d255fa-7898-4726-9a1e-7ef6d643ed4e",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "b5706fa1-9edb-4ece-9ca4-c86b971879d3",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+      ],
+      "dependScripts": [
+        "3b9e08be-a36c-424a-861a-e8c89a534d53",
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8"
+      ]
+    }
+  },
+  "dd28d0e0-a8f6-4c56-91d2-dc865ffdb447": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Clipping/Clipping.1024/texture_00.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8e658bf0-6ec2-444d-96f0-562ae62dcd24": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Koharu/Animation/body.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "f4244e8e-05f8-4dde-b1f3-b344be790e9f": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Koharu/Animation/body.fade.asset",
+    "value": {}
+  },
+  "f7d54dc8-cd40-4047-a57d-cfb65f65a636": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Koharu/Animation/body.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "bf6fdeba-016a-4036-8399-59d0d2acca03": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Koharu/Animation/face01.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "662d1a3b-7aad-4f4f-aff7-f35b0ef73d79": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Koharu/Animation/face01.fade.asset",
+    "value": {}
+  },
+  "91d59e0d-39ea-4d01-92e3-fdda890e77e2": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Koharu/Animation/face01.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "dd28d0e0-a8f6-4c56-91d2-dc865ffdb447@6c48a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Clipping/Clipping.1024/texture_00.png@6c48a",
+    "value": {
+      "depends": [
+        "dd28d0e0-a8f6-4c56-91d2-dc865ffdb447"
+      ]
+    }
+  },
+  "259a4ad1-c795-464d-99d4-fe89c2f2b6f6": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Koharu/Animation/face02.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "78b343ba-916b-415f-95ab-ba0fdede38b6": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Koharu/Animation/face02.fade.asset",
+    "value": {}
+  },
+  "c2aa60c5-2cd2-4349-b257-f93c09690a6a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Koharu/Animation/face02.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "0b468872-56d4-44f6-9029-432beda53b77": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Koharu/Koharu.2048/texture_00.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "7593f365-db94-47d1-820e-31ab2ec74e05": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/Mao.2048/texture_00.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "11f4e56a-3169-4927-9275-06c8cd8f917b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/expressions/exp_01.exp3.asset",
+    "value": {}
+  },
+  "d508411e-8863-448b-9c22-aca24024cf88": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/expressions/exp_01.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "74b5ba5c-7fe1-4713-8c59-7f2812e97f54": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/expressions/exp_02.exp3.asset",
+    "value": {}
+  },
+  "d4289dce-ba56-419c-8cbb-5ce2d684314d": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/expressions/exp_02.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "b93418c7-39c3-412c-b787-edef0e07bb28": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/expressions/exp_03.exp3.asset",
+    "value": {}
+  },
+  "5c3ba08a-80de-4408-b8fb-c68884cf4e45": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/expressions/exp_03.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "9d3a7309-f849-413b-a74f-79ece7468d7b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/expressions/exp_04.exp3.asset",
+    "value": {}
+  },
+  "c0207f86-7f03-4191-a082-5f74d1bedff9": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/expressions/exp_04.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "8459b30a-f81c-4d6c-b4c4-0bd34e784685": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/expressions/exp_05.exp3.asset",
+    "value": {}
+  },
+  "961bfebe-9e2d-4dab-a895-44a97008291e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/expressions/exp_05.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "6d4867dd-8666-4512-a224-0ea999149279": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/expressions/exp_06.exp3.asset",
+    "value": {}
+  },
+  "667d65b6-e08e-4a7b-81d6-85f644da012e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/expressions/exp_06.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "d8962482-b4e1-4866-b109-05fbd334af2a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/expressions/exp_07.exp3.asset",
+    "value": {}
+  },
+  "c6bc60b2-af0f-48bb-8088-93153181f5bc": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/expressions/exp_07.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "a3a6cfa0-9e35-4b67-90a8-9ea9d0d56b04": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/expressions/exp_08.exp3.asset",
+    "value": {}
+  },
+  "05686385-7be1-4fc1-9a6a-1c794ecde73a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/expressions/exp_08.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "6a54646a-e595-40a6-a379-9cb7cacb92bf": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions/mtn_01.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "fc07dde7-1882-46f3-881b-0751eb448e96": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions/mtn_01.fade.asset",
+    "value": {}
+  },
+  "0017bd77-1875-4c75-88a6-eed8bd541e55": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions/mtn_01.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "830563d0-3e12-4367-a8f2-c62a6dab5302": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions/mtn_02.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "0b468872-56d4-44f6-9029-432beda53b77@6c48a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Koharu/Koharu.2048/texture_00.png@6c48a",
+    "value": {
+      "depends": [
+        "0b468872-56d4-44f6-9029-432beda53b77"
+      ]
+    }
+  },
+  "f94e692a-f39b-4fb1-8269-af93118ed36f": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions/mtn_02.fade.asset",
+    "value": {}
+  },
+  "1178f53f-1736-4caf-a481-8584d6a5a004": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions/mtn_02.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "b44acf41-15ba-4c84-be64-2c4c374dadb0": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions/mtn_03.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "198cdb89-5162-40ad-81f1-7917fe132aa1": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions/mtn_03.fade.asset",
+    "value": {}
+  },
+  "9fc775c0-c491-457c-9cea-b5e4821aecbd": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions/mtn_03.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "0fd6f7f8-240e-47fe-862e-ea8c036ffc14": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions/mtn_04.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "7b401dae-8e27-4c15-acce-29fc89c14385": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions/mtn_04.fade.asset",
+    "value": {}
+  },
+  "fefe42e6-bfe9-40cf-8760-89353b5c0027": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions/mtn_04.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "4ca385c7-4ad1-437c-aea4-96ec4a43c84f": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions/special_01.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "34a94b42-d2b7-408e-8834-e718047d1778": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions/special_01.fade.asset",
+    "value": {}
+  },
+  "62b23cb0-46d8-45b0-86fb-ae6794364c05": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions/special_01.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "38739872-75a4-477b-8cc4-a17ae7d6adc0": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions/special_02.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "9a5f1777-ef06-4376-a010-66eef50b9793": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions/special_02.fade.asset",
+    "value": {}
+  },
+  "7aaadd78-ed8b-4069-a8ca-dec3d7526cac": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/motions/special_02.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "b0a7a751-b3a0-4ecf-a2e8-e1998417ffd0": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/Natori.2048/texture_00.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "7593f365-db94-47d1-820e-31ab2ec74e05@6c48a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Mao/Mao.2048/texture_00.png@6c48a",
+    "value": {
+      "depends": [
+        "7593f365-db94-47d1-820e-31ab2ec74e05"
+      ]
+    }
+  },
+  "6b891945-a8ab-4f12-95b9-912c6ca6d107": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_00.exp3.asset",
+    "value": {}
+  },
+  "d09dc2c4-afff-41c7-aa07-21f6ae9137c8": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_00.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "4d5b11e6-b1a8-4f94-b8cc-348a5a5990ef": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_01.exp3.asset",
+    "value": {}
+  },
+  "58be0ba6-5d7d-4327-86bc-2f6152c250aa": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_01.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "92b48232-63f5-4fe0-8436-a12d4c2b655e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_02.exp3.asset",
+    "value": {}
+  },
+  "55934482-98b8-4498-b871-d6b772e992aa": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_02.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "6c65789a-7b02-4b7e-8c87-ffdcf5bbeac2": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_03.exp3.asset",
+    "value": {}
+  },
+  "10652202-cf0a-4580-9ae3-93ded74df18b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_03.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "22bc3c90-60ac-45a9-95ac-edfcae1582e1": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_04.exp3.asset",
+    "value": {}
+  },
+  "56677299-37b3-43a8-bc8b-5028bb42200d": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_04.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "73ed3056-592d-4760-a7f5-09a626204358": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_05.exp3.asset",
+    "value": {}
+  },
+  "87f6cdbe-902d-4189-b451-6282b1b9069e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_05.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "8c6066d4-5c3d-432f-94d9-ccfe8399c911": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_06.exp3.asset",
+    "value": {}
+  },
+  "59226584-05c0-4cc9-be01-d79eef276701": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_06.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "c4c9fe42-543a-41c2-9d22-eb46c2720360": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_07.exp3.asset",
+    "value": {}
+  },
+  "8441157b-51e7-4d3a-89c7-3207858c5ab2": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_07.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "18df9aeb-af38-4d92-97bc-9ec3cc7a4a02": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_08.exp3.asset",
+    "value": {}
+  },
+  "618352aa-a5ed-4b91-9150-525b32b7dce7": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_08.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "9cb3a21a-3bdd-4f79-b5b6-1410b856f820": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_09.exp3.asset",
+    "value": {}
+  },
+  "362822f1-517d-4ded-b206-0b89c3cf06d2": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_09.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "7b76607d-7d8c-4e3f-8829-57cca35ddad0": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_10.exp3.asset",
+    "value": {}
+  },
+  "4d770d51-ce69-4268-ac71-cda6d882a590": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/exp/exp_10.exp3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "701aed70-495f-4cc3-871b-1b77d3520022": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_00.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "f77540bf-b9c2-42d5-92da-3f99250f8d43": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_00.fade.asset",
+    "value": {}
+  },
+  "675f5c6c-71f7-47e0-930b-2412cd9396e1": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_00.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "a379d6d5-cb92-4ecd-9a36-6b9bb6de2097": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_01.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "de166355-9536-400c-85e6-64a69eb808f2": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_01.fade.asset",
+    "value": {}
+  },
+  "d5bd3613-00c9-4fd6-ac34-ec05c0fd023e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_01.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "9dfabaaa-8a3a-4bf9-a3af-6f9b4258a87e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_02.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "2ca64968-6a66-4613-aa46-1b8991cadd9c": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_02.fade.asset",
+    "value": {}
+  },
+  "c758b959-48ee-4d3e-9e78-7b13221cc3f8": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_02.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "e500ccb7-694c-4fbe-a430-77ddfcf0477e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_03.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "b7d17b5d-d16b-45bf-9dc3-01802b87c04d": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_03.fade.asset",
+    "value": {}
+  },
+  "d1374125-2350-4248-9f0b-23f485e39e79": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_03.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "d02e9078-8dc2-4be6-be6f-1fc87f6f0026": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_04.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "9f684667-731a-478b-9aac-88af6fb4b3c2": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_04.fade.asset",
+    "value": {}
+  },
+  "9839454d-bb8e-43eb-8b89-6dfb924a9ccd": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_04.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "b693dab2-740d-47d5-b021-d0b8355838a0": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_05.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "34a35f60-3b29-4712-acb3-72cb9fd4cd74": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_05.fade.asset",
+    "value": {}
+  },
+  "4b81d06e-797e-40da-8afe-81f30eb547db": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_05.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "723831ce-529b-44f6-b831-f839f7fc1542": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_06.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "68b5d8ee-0d20-4acf-b0b7-7c0f39c719c4": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_06.fade.asset",
+    "value": {}
+  },
+  "020b506e-979a-42d6-9d9e-8609017889cd": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_06.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "f66a91f3-c078-4ee3-b507-34f9a08e8bda": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_07.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "75d7e01e-7fa3-49e0-8c5f-2de7331ba5db": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_07.fade.asset",
+    "value": {}
+  },
+  "65773ce1-155e-4d78-a2f4-8a4a3670045a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_07.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "78891bea-ab24-4b80-b6cc-a1d330be885c": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_08.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "0430b5f6-8646-42fd-a3d0-efc224259afc": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_08.fade.asset",
+    "value": {}
+  },
+  "b0a7a751-b3a0-4ecf-a2e8-e1998417ffd0@6c48a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/Natori.2048/texture_00.png@6c48a",
+    "value": {
+      "depends": [
+        "b0a7a751-b3a0-4ecf-a2e8-e1998417ffd0"
+      ]
+    }
+  },
+  "8603a3e1-43b1-4dcb-8997-871514048868": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Natori/motions/mtn_08.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "822a2954-4461-4219-8ee9-dc1de08407f9": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/Rice.2048/texture_00.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "cd21981d-54aa-4f83-8170-92b1e64974bd": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/Rice.2048/texture_01.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d7b057b2-93f8-4279-81d7-fb97f8c83f57": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/motions/mtn_00.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "48ffa38b-d9c9-4031-a0c2-66326f597b35": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/motions/mtn_00.fade.asset",
+    "value": {}
+  },
+  "804ee846-f68f-485d-aab1-0930f3d6aaac": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/motions/mtn_00.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "157ce25f-fedc-45d7-955b-56764f79e261": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/motions/mtn_01.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "46c8f2d1-afe8-40b4-b3ed-2848a8eb5fa2": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/motions/mtn_01.fade.asset",
+    "value": {}
+  },
+  "9ad0682e-b055-4169-abf4-72a281a75592": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/motions/mtn_01.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "9006b0dd-c8b0-4489-af6e-5d0417c709f7": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/motions/mtn_02.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "1227dfbd-4fec-4b98-8106-83f994d6db8b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/motions/mtn_02.fade.asset",
+    "value": {}
+  },
+  "645e4b5d-3f64-4926-b901-e0e8e6b73953": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/motions/mtn_02.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "2a447eb5-2810-424f-83ee-ba6cdf0dc8ab": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/motions/mtn_03.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "822a2954-4461-4219-8ee9-dc1de08407f9@6c48a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/Rice.2048/texture_00.png@6c48a",
+    "value": {
+      "depends": [
+        "822a2954-4461-4219-8ee9-dc1de08407f9"
+      ]
+    }
+  },
+  "8a6ffca5-a6fa-413d-a8b4-c49a7f794ec5": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/motions/mtn_03.fade.asset",
+    "value": {}
+  },
+  "f391c56a-3a8b-47d1-9be2-1552d99dcfb4": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/motions/mtn_03.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "c8d80031-2d59-4e1a-928f-8ddc7c97c6a4": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/Wanko.1024/texture_00.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "c5b7d23b-5fe8-460b-8c21-ba8b25558696": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/idle_01.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "bf2c035d-c311-41ad-9920-63c8ec04bdff": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/idle_01.fade.asset",
+    "value": {}
+  },
+  "8835c9f6-b260-40cf-b865-830eed9be38d": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/idle_01.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "67ba64b3-a847-44bf-9bad-1f9a36340f8f": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/idle_02.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "9235540a-6fc4-4f06-a2e9-6e0b976c59cd": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/idle_02.fade.asset",
+    "value": {}
+  },
+  "24fa089f-e46f-4451-91cc-957ef76ab8fe": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/idle_02.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "c4b00eb6-be0b-48b3-8f1a-af835d5ae03c": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/idle_03.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "1b64dd7a-9a18-4710-956c-712a7199c61e": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/idle_03.fade.asset",
+    "value": {}
+  },
+  "c21dd0cf-d154-4a0a-b2c8-6c74201cb563": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/idle_03.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "a2725a9c-9dde-4faf-9e2e-8bf2a0c5e1e0": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/idle_04.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "fccaf88a-8312-45fe-8d4d-f37c0e9d659f": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/idle_04.fade.asset",
+    "value": {}
+  },
+  "3a269e90-775a-4885-9a5c-d69a748aadec": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/idle_04.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "98185bc2-4d23-49dd-8e4a-ab07975a877b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/shake_01.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "cd21981d-54aa-4f83-8170-92b1e64974bd@6c48a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Rice/Rice.2048/texture_01.png@6c48a",
+    "value": {
+      "depends": [
+        "cd21981d-54aa-4f83-8170-92b1e64974bd"
+      ]
+    }
+  },
+  "717227d0-4d14-46a5-9777-d3bb0f802023": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/shake_01.fade.asset",
+    "value": {}
+  },
+  "6067fc56-d8de-46ea-b9b3-b080fe8cfbd1": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/shake_01.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "f1e62602-839d-434f-b2cc-55b917282763": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/shake_02.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "0fde3d69-d1a1-4e8b-9820-c10b615d6055": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/shake_02.fade.asset",
+    "value": {}
+  },
+  "0ead587d-a07c-43cb-8e4a-236c944098e5": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/shake_02.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "af33a750-7917-4ec4-81bd-6e039cc21da2": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/touch_01.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "49f05107-be3a-4b8b-ae12-7b3deabd1f3f": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/touch_01.fade.asset",
+    "value": {}
+  },
+  "aedb9f8b-2d58-42da-a9a7-089fa83479fc": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/touch_01.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "ad544056-650b-4884-9829-1419022f1450": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/touch_02.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "b6a6b456-3119-4ae2-bb5a-966f42564e18": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/touch_02.fade.asset",
+    "value": {}
+  },
+  "f05c2a66-7a39-4576-ae54-7bb54a7be34c": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/touch_02.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "e090511e-7174-4126-9c18-fedc703275df": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/touch_03.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "b90c16eb-03fc-4679-b945-9cbba2ba1d0b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/touch_03.fade.asset",
+    "value": {}
+  },
+  "256107ab-5b6c-4721-af57-eeadc9624fff": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/touch_03.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "c6225b0f-e5ae-44aa-a0a6-3288bd12ecfd": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/touch_04.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "7c9f23e1-742b-42b3-a486-c7f6cc5b70be": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/touch_04.fade.asset",
+    "value": {}
+  },
+  "1db4a078-24c7-40f5-85bb-b2b719bf5515": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/touch_04.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "c8d80031-2d59-4e1a-928f-8ddc7c97c6a4@6c48a": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/Wanko.1024/texture_00.png@6c48a",
+    "value": {
+      "depends": [
+        "c8d80031-2d59-4e1a-928f-8ddc7c97c6a4"
+      ]
+    }
+  },
+  "a17b878f-4f0f-45a7-8c6d-d2acbb7a72e7": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/touch_05.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "9154cd85-acee-401b-9932-21b79a757517": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/touch_05.fade.asset",
+    "value": {}
+  },
+  "270eb504-2c58-45a7-af89-c3b6632be346": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/touch_05.motion3.json",
+    "value": {
+      "depends": []
+    }
+  },
+  "36f21bb8-9989-4cc4-99cf-378ee94fafd4": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/touch_06.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "081e9610-b1af-40e6-93d9-55d561f6e767": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/touch_06.fade.asset",
+    "value": {}
+  },
+  "02d3d428-0b53-49ba-8d2c-03371ad9059b": {
+    "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Models/Wanko/motions/touch_06.motion3.json",
+    "value": {
+      "depends": []
+    }
+  }
+}

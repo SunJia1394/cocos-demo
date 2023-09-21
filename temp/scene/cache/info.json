@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "arm64",
+        "cpu": "Apple M2",
+        "version": "Darwin Kernel Version 21.6.0: Sat Jun 18 17:07:28 PDT 2022; root:xnu-8020.140.41~1/RELEASE_ARM64_T8110"
+    },
+    "sceneListMap": {
+        "7c3e7fab-7b1e-4865-ba84-3cf81b48b9fb": "/Users/sunjia/project/cocos/NewProject_1/assets/scene/main.scene"
+    },
+    "deviceMd5": "da0b07cc28c7ff350000541284674ed8"
+}

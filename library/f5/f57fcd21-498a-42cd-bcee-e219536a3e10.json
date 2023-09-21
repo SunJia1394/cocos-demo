@@ -1,0 +1,41 @@
+{
+  "__type__": "CubismExpressionList",
+  "_name": "",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "cubismExpressionObjects": [
+    {
+      "__uuid__": "11f4e56a-3169-4927-9275-06c8cd8f917b",
+      "__expectedType__": "CubismExpressionData"
+    },
+    {
+      "__uuid__": "74b5ba5c-7fe1-4713-8c59-7f2812e97f54",
+      "__expectedType__": "CubismExpressionData"
+    },
+    {
+      "__uuid__": "b93418c7-39c3-412c-b787-edef0e07bb28",
+      "__expectedType__": "CubismExpressionData"
+    },
+    {
+      "__uuid__": "9d3a7309-f849-413b-a74f-79ece7468d7b",
+      "__expectedType__": "CubismExpressionData"
+    },
+    {
+      "__uuid__": "8459b30a-f81c-4d6c-b4c4-0bd34e784685",
+      "__expectedType__": "CubismExpressionData"
+    },
+    {
+      "__uuid__": "6d4867dd-8666-4512-a224-0ea999149279",
+      "__expectedType__": "CubismExpressionData"
+    },
+    {
+      "__uuid__": "d8962482-b4e1-4866-b109-05fbd334af2a",
+      "__expectedType__": "CubismExpressionData"
+    },
+    {
+      "__uuid__": "a3a6cfa0-9e35-4b67-90a8-9ea9d0d56b04",
+      "__expectedType__": "CubismExpressionData"
+    }
+  ]
+}

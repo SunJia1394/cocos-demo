@@ -1,0 +1,8 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "RedistributableFiles",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "text": "The following is a list of files available for redistribution\r\nunder the terms of the Live2D Proprietary Software License Agreement:\r\n\r\n- /static/assets/resources/WebAssembly/Live2DCubismCore.bin\r\n- /static/assets/Live2DCubismCore.d.ts\r\n- /static/assets/Live2DCubismCore.js\r\n- /static/assets/CubismCore.ts\r\n"
+}

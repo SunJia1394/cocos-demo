@@ -1,0 +1,423 @@
+2023-9-22 01:09:52-log: Cannot access game frame or container.
+2023-9-22 01:09:52-debug: asset-db:require-engine-code (690ms)
+2023-9-22 01:09:52-log: Cocos Creator v3.8.1
+2023-9-22 01:09:53-debug: [Assets Memory track]: asset-db-plugin-register: live2d_cubismsdk_cocoscreator start:94.83MB, end 98.44MB, increase: 3.61MB
+2023-9-22 01:09:53-debug: [Assets Memory track]: asset-db-plugin-enable: project start:95.44MB, end 98.44MB, increase: 3.01MB
+2023-9-22 01:09:53-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:92.67MB, end 98.45MB, increase: 5.78MB
+2023-9-22 01:09:52-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:19.78MB, end 92.66MB, increase: 72.88MB
+2023-9-22 01:09:53-debug: [Assets Memory track]: asset-db-plugin-register: programming start:93.31MB, end 94.63MB, increase: 1.32MB
+2023-9-22 01:09:53-debug: [Assets Memory track]: asset-db-plugin-register: engine-extends start:94.68MB, end 98.44MB, increase: 3.76MB
+2023-9-22 01:09:53-debug: asset-db:worker-init: initPlugin (93ms)
+2023-9-22 01:09:53-debug: [Assets Memory track]: asset-db:worker-init start:19.78MB, end 98.50MB, increase: 78.73MB
+2023-9-22 01:09:53-debug: Run asset db hook engine-extends:beforePreStart ...
+2023-9-22 01:09:53-debug: Run asset db hook engine-extends:beforePreStart success!
+2023-9-22 01:09:53-debug: Run asset db hook programming:beforePreStart ...
+2023-9-22 01:09:53-debug: Run asset db hook programming:beforePreStart success!
+2023-9-22 01:09:53-debug: asset-db:worker-init (1507ms)
+2023-9-22 01:09:53-debug: asset-db-hook-programming-beforePreStart (472ms)
+2023-9-22 01:09:53-debug: asset-db-hook-engine-extends-beforePreStart (472ms)
+2023-9-22 01:09:53-debug: Preimport db internal success
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntimebackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/scriptsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/materialbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/scenebackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/modelbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/skyboxbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motionbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/scripts/test.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/grassbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorldbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: Preimport db assets success
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Renderingbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Corebackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Frameworkbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resourcesbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/SampleScriptsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Expressionbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/HarmonicMotionbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Jsonbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/LookAtbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/MotionFadebackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/MouthMovementbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Physicsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/UserDatabackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Raycastingbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Posebackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/Maskingbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/SampleScripts/OriginalWorkflowbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samplesbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Materialsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/SampleScripts/Raycastingbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shadersbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/WebAssemblybackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/SampleScripts/OriginalWorkflow/Expressionbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Animationbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/LookAtbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Modelsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Raycastingbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/OriginalWorkflowbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/PerspectiveCamerabackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/MultipleModelsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Clippingbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Ricebackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natoribackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Maobackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Koharubackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/OriginalWorkflow/Expressionbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Mao/motionsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Koharu/Animationbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Mao/expressionsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wankobackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/expbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Natori/motionsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismGetClippedMaskChannel.chunkbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Wanko/motionsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/Models/Rice/motionsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismGetMaskChannel.chunkbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismSampleMaskTexture.chunkbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismMaskShaderVariables.chunkbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismToMaskClipPos.chunkbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/CubismToMaskCoordinates.chunkbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/MaskFrag.chunkbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/UnlitFrag.chunkbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/UnlitVert.chunkbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/MaskVert.chunkbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/CubismCore.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/IStructLike.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Live2DCubismCore.d.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/Mask.effectbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Utils.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Shaders/Unlit.effectbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/ArrayExtensionMethods.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/ComponentExtensionMethods.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/CubismCanvasInformation.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/CubismDrawable.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/CubismDynamicDrawableData.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/CubismGeometry.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/CubismMoc.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/CubismModel.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/CubismParameter.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/CubismPart.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/CubismTaskQueue.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/CubismTaskableModel.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/CubismVector.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Core/ICubismTask.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/ComponentExtensionMethods.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/CubismAutoEyeBlinkInput.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/CubismDisplayInfoParameterName.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/CubismDisplayInfoPartName.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/CubismEyeBlinkController.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/CubismEyeBlinkParameter.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/CubismHitDrawable.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/CubismMotionApplier.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/CubismParameterBlendMode.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/CubismParameterExtensionMethods.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/CubismParameterStore.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/CubismParametersInspector.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/CubismPartsInspector.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/CubismResources.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/CubismUpdateController.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/CubismUpdateExecutionOrder.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/ICubismUpdatable.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/ObjectExtensionMethods.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/ArrayExtensionMethods.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/CubismBuiltinMaterials.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/CubismBuiltinShaders.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/CubismMeshPrimitive.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/CubismRenderController.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/CubismRenderer.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/CubismShaderVariables.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/CubismSortingMode.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/ICubismBlendColorHandler.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/ICubismDrawOrderHandler.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/ICubismOpacityHandler.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Expression/CubismExpressionController.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Expression/CubismExpressionData.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Expression/CubismExpressionList.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Expression/CubismPlayingExpression.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/HarmonicMotion/CubismHarmonicMotionController.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/HarmonicMotion/CubismHarmonicMotionDirection.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/HarmonicMotion/CubismHarmonicMotionParameter.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Json/CubismBuiltinPickers.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Json/CubismDisplayInfo3Json.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Json/CubismExp3Json.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Json/CubismModel3Json.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Json/CubismMotion3Json.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Json/CubismPhysics3Json.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Json/CubismPose3Json.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Json/CubismUserData3Json.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Json/IMaterialPicker.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Json/JsonParseUtils.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/LookAt/CubismLookAxis.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/LookAt/CubismLookController.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/LookAt/CubismLookParameter.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/LookAt/CubismLookTargetBehaviour.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/LookAt/ICubismLookTarget.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/MotionFade/CubismFadeController.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/MotionFade/CubismFadeCurveType.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/MotionFade/CubismFadeMath.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/MotionFade/CubismFadeMotionData.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/MotionFade/CubismFadeMotionList.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/MotionFade/CubismFadePlayingMotion.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/MotionFade/CubismFadeStateObserver.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/MotionFade/CubismSerializableCurve.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/MotionFade/CubismSerializableKeyFrame.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/MotionFade/ICubismFadeState.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/MouthMovement/CubismAudioMouthInput.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/MouthMovement/CubismAudioSamplingQuality.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/MouthMovement/CubismAutoMouthInput.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/MouthMovement/CubismMouthController.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/MouthMovement/CubismMouthParameter.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Physics/CubismPhysicsController.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Physics/CubismPhysicsInput.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Physics/CubismPhysics.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Physics/CubismPhysicsMath.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Physics/CubismPhysicsNormalization.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Physics/CubismPhysicsOutput.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Physics/CubismPhysicsParticle.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Physics/CubismPhysicsRig.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Physics/CubismPhysicsSourceComponent.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Physics/CubismPhysicsSubRig.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Pose/CubismPoseController.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Pose/CubismPoseData.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Pose/CubismPosePart.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Raycasting/CubismRaycastHit.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Raycasting/CubismRaycastable.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Raycasting/CubismRaycastablePrecision.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/Raycasting/CubismRaycaster.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/UserData/CubismUserDataBody.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/UserData/CubismUserDataTag.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Framework/UserData/CubismUserDataTargetType.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/Masking/CubismMaskCommandBuffer.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/Masking/CubismMaskController.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/Masking/CubismMaskMaskedJunction.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/Masking/CubismMaskProperties.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/Masking/CubismMaskRenderer.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/Masking/CubismMaskRendererExtensionMethods.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/Masking/CubismMaskTexture.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/Masking/CubismMaskTile.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/Masking/CubismMaskTilePool.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/Masking/CubismMaskTransform.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/Masking/ICubismMaskCommandSource.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/Rendering/Masking/ICubismMaskTextureCommandSource.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/SampleScripts/Raycasting/RaycastHitDisplay.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/SampleScripts/OriginalWorkflow/Expression/CubismExpressionPreview.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/extensions/live2d_cubismsdk_cocoscreator/static/assets/resources/Samples/LookAt/Billboarder.tsbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:09:53-debug: Run asset db hook programming:afterPreStart ...
+2023-9-22 01:09:53-debug: Preimport db live2d_cubismsdk_cocoscreator success
+2023-9-22 01:09:54-debug: run package(builder) handler(enable) start
+2023-9-22 01:09:58-debug: [Assets Memory track]: asset-db-plugin-enable: builder start:118.39MB, end 321.93MB, increase: 203.55MB
+2023-9-22 01:09:58-debug: run package(builder) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(shortcuts) handler(enable) start
+2023-9-22 01:09:58-debug: run package(shortcuts) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(animation-graph) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(animation-graph) handler(enable) start
+2023-9-22 01:09:58-debug: run package(assets) handler(enable) start
+2023-9-22 01:09:58-debug: run package(assets) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(console) handler(enable) start
+2023-9-22 01:09:58-debug: run package(crash-reporter) handler(enable) start
+2023-9-22 01:09:58-debug: run package(crash-reporter) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(extension) handler(enable) start
+2023-9-22 01:09:58-debug: run package(extension) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(hierarchy) handler(enable) start
+2023-9-22 01:09:58-debug: run package(hierarchy) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(inspector) handler(enable) start
+2023-9-22 01:09:58-debug: run package(inspector) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(about) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(light-probe) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(lightmap) handler(enable) start
+2023-9-22 01:09:58-debug: run package(lightmap) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(node-library) handler(enable) start
+2023-9-22 01:09:58-debug: run package(node-library) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(package-asset) handler(enable) start
+2023-9-22 01:09:58-debug: run package(console) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(process) handler(enable) start
+2023-9-22 01:09:58-debug: run package(process) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(reference-image) handler(enable) start
+2023-9-22 01:09:58-debug: run package(reference-image) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(reflection-probe) handler(enable) start
+2023-9-22 01:09:58-debug: run package(reflection-probe) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(engine-extends) handler(enable) start
+2023-9-22 01:09:58-debug: run package(engine-extends) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(adsense-h5g-plugin) handler(enable) start
+2023-9-22 01:09:58-debug: run package(adsense-h5g-plugin) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(alipay-mini-game) handler(enable) start
+2023-9-22 01:09:58-debug: run package(alipay-mini-game) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(android) handler(enable) start
+2023-9-22 01:09:58-debug: run package(android) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(bytedance-mini-game) handler(enable) start
+2023-9-22 01:09:58-debug: run package(bytedance-mini-game) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(package-asset) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(certificate) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(channel-upload-tools) handler(enable) start
+2023-9-22 01:09:58-debug: run package(channel-upload-tools) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(fb-instant-games) handler(enable) start
+2023-9-22 01:09:58-debug: run package(fb-instant-games) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(huawei-agc) handler(enable) start
+2023-9-22 01:09:58-debug: run package(huawei-agc) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(huawei-quick-game) handler(enable) start
+2023-9-22 01:09:58-debug: run package(light-probe) handler(enable) start
+2023-9-22 01:09:58-debug: run package(ios) handler(enable) start
+2023-9-22 01:09:58-debug: run package(ios) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(linux) handler(enable) start
+2023-9-22 01:09:58-debug: run package(linux) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(mac) handler(enable) start
+2023-9-22 01:09:58-debug: run package(mac) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(native) handler(enable) start
+2023-9-22 01:09:58-debug: run package(native) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(ohos) handler(enable) start
+2023-9-22 01:09:58-debug: run package(huawei-quick-game) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(openharmony) handler(enable) start
+2023-9-22 01:09:58-debug: run package(openharmony) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(oppo-mini-game) handler(enable) start
+2023-9-22 01:09:58-debug: run package(oppo-mini-game) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(certificate) handler(enable) start
+2023-9-22 01:09:58-debug: run package(runtime-dev-tools) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(runtime-dev-tools) handler(enable) start
+2023-9-22 01:09:58-debug: run package(taobao-creative-app) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(taobao-mini-game) handler(enable) start
+2023-9-22 01:09:58-debug: run package(taobao-mini-game) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(vivo-mini-game) handler(enable) start
+2023-9-22 01:09:58-debug: run package(vivo-mini-game) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(web-desktop) handler(enable) start
+2023-9-22 01:09:58-debug: run package(web-desktop) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(web-mobile) handler(enable) start
+2023-9-22 01:09:58-debug: run package(taobao-creative-app) handler(enable) start
+2023-9-22 01:09:58-debug: run package(wechatgame) handler(enable) start
+2023-9-22 01:09:58-debug: run package(wechatgame) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(about) handler(enable) start
+2023-9-22 01:09:58-debug: run package(wechatprogram) handler(enable) start
+2023-9-22 01:09:58-debug: run package(wechatprogram) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(windows) handler(enable) start
+2023-9-22 01:09:58-debug: run package(xiaomi-quick-game) handler(enable) start
+2023-9-22 01:09:58-debug: run package(xiaomi-quick-game) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(windows) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(cocos-service) handler(enable) start
+2023-9-22 01:09:58-debug: run package(im-plugin) handler(enable) start
+2023-9-22 01:09:58-debug: run package(im-plugin) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(live2d_cubismsdk_cocoscreator) handler(enable) start
+2023-9-22 01:09:58-debug: run package(cocos-service) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(live2d_cubismsdk_cocoscreator) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(placeholder) handler(enable) start
+2023-9-22 01:09:58-debug: run package(placeholder) handler(enable) success!
+2023-9-22 01:09:58-debug: run package(ohos) handler(enable) success!
+2023-9-22 01:09:58-debug: start custom db live2d_cubismsdk_cocoscreator...
+2023-9-22 01:09:58-debug: run package(web-mobile) handler(enable) success!
+2023-9-22 01:10:02-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-9-22 01:10:02-debug: [Assets Memory track]: asset-db:worker-init: preStart start:98.51MB, end 321.23MB, increase: 222.72MB
+2023-9-22 01:10:02-debug: Start up the 'internal' database...
+2023-9-22 01:10:02-debug: Run asset db hook engine-extends:afterPreStart ...
+2023-9-22 01:10:02-debug: Run asset db hook programming:afterPreStart success!
+2023-9-22 01:10:02-debug: Run asset db hook engine-extends:afterPreStart success!
+2023-9-22 01:10:02-debug: asset-db-hook-programming-afterPreStart (9135ms)
+2023-9-22 01:10:02-debug: asset-db:worker-effect-data-processing (15ms)
+2023-9-22 01:10:02-debug: asset-db-hook-engine-extends-afterPreStart (15ms)
+2023-9-22 01:10:02-debug: start asset-db(internal) with asset: 463
+2023-9-22 01:10:02-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:115.91MB, end 324.27MB, increase: 208.35MB
+2023-9-22 01:10:02-debug: Start up the 'assets' database...
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/hijiki.2048background: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/hijiki.cdi3.jsonbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/hijiki.model3.jsonbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/hijiki.physics3.jsonbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: asset-db:worker-startup-database[internal] (9350ms)
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/hijiki.pose3.jsonbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/hijiki.moc3background: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/hijiki.prefabbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/hijikiruntime.fadeMotionList.assetbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/material/hdcSky.mtlbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/material/plane.mtlbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/material/seafloor.mtlbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/material/shield.mtlbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/material/soldier.mtlbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/material/stone.mtlbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/material/tree.mtlbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/scene/main.scenebackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/hijiki.2048/texture_00.pngbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/00_idle.animbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/00_idle.fade.assetbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/00_idle.motion3.jsonbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/01.animbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/01.fade.assetbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/01.motion3.jsonbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/02.animbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/02.fade.assetbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/skybox/sunnySkyBox.jpgbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/02.motion3.jsonbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:02-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/03.animbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/03.fade.assetbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/04.animbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/03.motion3.jsonbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/skybox/sunnySkyBox.jpg@b47c0background: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/04.fade.assetbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/04.motion3.jsonbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/05.animbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/hijiki.2048/texture_00.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/05.fade.assetbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/skybox/sunnySkyBox.jpg@b47c0@e9a6dbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/05.motion3.jsonbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/06.animbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/06.fade.assetbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/skybox/sunnySkyBox.jpg@b47c0@40c10background: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/06.motion3.jsonbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/07.animbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/skybox/sunnySkyBox.jpg@b47c0@bb97fbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/skybox/sunnySkyBox.jpg@b47c0@7d38fbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/07.motion3.jsonbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/07.fade.assetbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/skybox/sunnySkyBox.jpg@b47c0@74afdbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/skybox/sunnySkyBox.jpg@b47c0@8fd34background: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/08.animbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/08.fade.assetbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/hijikiruntime/motion/08.motion3.jsonbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/hdcSky.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: Image(Name: hdcSky, Expected path: undefined) is not found, fuzzy search starts.
+2023-9-22 01:10:03-debug: Fuzzy search failed.
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/hdcSky.FBX@f6832background: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/hdcSky.FBX@7f40dbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/hdcSky.prefabbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/islands.prefabbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/hdcSky.FBX@d6067background: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/seafloor.jpgbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/hdcSky.FBX@bfc57background: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/shield.jpgbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/sky.pngbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/seafloor.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/shield.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/soldier.pngbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/sky.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/soldier.prefabbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/stone.jpgbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/soldier.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/tree.pngbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/soldier.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/stone.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/islands.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/grass/grass.mtlbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/tree.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/grass/grass.FBXbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/grass/grass.pngbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: Image(Name: seafloor, Expected path: undefined) is not found, fuzzy search starts.
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/grass/grass.prefabbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: Image(Name: soldier, Expected path: undefined) is not found, fuzzy search starts.
+2023-9-22 01:10:03-debug: Found /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/seafloor.jpg, use it.
+2023-9-22 01:10:03-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/islands.FBX@71919background: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:03-debug: Found /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/soldier.png, use it.
+2023-9-22 01:10:04-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/soldier.FBX@18751background: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:04-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/grass/grass.png@6c48abackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:04-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/grass/grassGoup.prefabbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:04-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/islands.FBX@2b0a8background: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:04-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/soldier.FBX@30732background: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:04-debug: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/grass/grass.FBX is converted to: /Users/sunjia/project/cocos-test/cocos-demo/temp/asset-db/assets/fbx2gltf-aade09ee-8f9d-413c-a9e8-8c686ea5e160/out/out.gltf
+2023-9-22 01:10:04-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/soldier.FBX@da6f3background: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:05-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/islands.FBX@4a7d8background: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:06-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/soldier.FBX@4b929background: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:07-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/islands.FBX@0e750background: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:11-debug: Image(Name: grass, Expected path: undefined) is not found, fuzzy search starts.
+2023-9-22 01:10:11-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/soldier.FBX@39f7bbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:11-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/islands.FBX@ef86bbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:13-debug: Found /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/grass/grass.png, use it.
+2023-9-22 01:10:13-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/grass/grass.FBX@ef5e1background: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:19-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/soldier.FBX@73b7fbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:25-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/islands.FBX@426f2background: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:30-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/grass/grass.FBX@73b7fbackground: #aaff85; color: #000;color: #000;
+2023-9-22 01:10:40-debug: %cImport%c: /Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/soldier.FBX@f1394background: #aaff85; color: #000;color: #000;

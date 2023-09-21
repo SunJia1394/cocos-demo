@@ -1,0 +1,90 @@
+{
+  "__version__": "1.3.7",
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    }
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1695315066331": {
+        "type": "build",
+        "id": "1695315066331",
+        "progress": 1,
+        "state": "success",
+        "stage": "run",
+        "message": "2023-9-22 00:51:25 run package /Users/sunjia/project/cocos/NewProject_1/build/web-desktop success!",
+        "options": {
+          "name": "NewProject_1",
+          "server": "",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "7c3e7fab-7b1e-4865-ba84-3cf81b48b9fb",
+          "outputName": "web-desktop",
+          "taskName": "web-desktop",
+          "scenes": [
+            {
+              "url": "db://assets/scene/main.scene",
+              "uuid": "7c3e7fab-7b1e-4865-ba84-3cf81b48b9fb"
+            },
+            {
+              "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Animation/Animation.scene",
+              "uuid": "77311d7e-de76-4497-a692-0d24eb0e1dcf",
+              "bundle": "db://live2d_cubismsdk_cocoscreator/resources"
+            },
+            {
+              "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/LookAt/LookAt.scene",
+              "uuid": "52ef81e4-e119-460f-8a59-0df31839440e",
+              "bundle": "db://live2d_cubismsdk_cocoscreator/resources"
+            },
+            {
+              "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/MultipleModels/MultipleModels.scene",
+              "uuid": "af058799-7673-4999-8cbf-0d5eceafc5a4",
+              "bundle": "db://live2d_cubismsdk_cocoscreator/resources"
+            },
+            {
+              "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/PerspectiveCamera/PerspectiveCamera.scene",
+              "uuid": "041a08b3-0325-469d-b432-0423ed5fafc8",
+              "bundle": "db://live2d_cubismsdk_cocoscreator/resources"
+            },
+            {
+              "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/Raycasting/Raycasting.scene",
+              "uuid": "160bbae6-e0be-4435-9b1b-751df44fb7e4",
+              "bundle": "db://live2d_cubismsdk_cocoscreator/resources"
+            },
+            {
+              "url": "db://live2d_cubismsdk_cocoscreator/resources/Samples/OriginalWorkflow/Expression/Expression.scene",
+              "uuid": "42d255fa-7898-4726-9a1e-7ef6d643ed4e",
+              "bundle": "db://live2d_cubismsdk_cocoscreator/resources"
+            }
+          ],
+          "packages": {},
+          "__version__": "1.3.7",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/web-desktop9-22-2023 00-51.log"
+        },
+        "time": "9-22-2023 00:51:06",
+        "dirty": false
+      }
+    }
+  }
+}

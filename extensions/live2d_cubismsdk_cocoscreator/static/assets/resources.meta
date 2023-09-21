@@ -1,0 +1,13 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "6c45f1a1-703a-452e-9f3e-d3604f482bd5",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleName": "Live2DCubismBuiltinResource",
+    "bundleConfigID": "auto_a80v9+54xEUY8K4Uj6zuQZ"
+  }
+}

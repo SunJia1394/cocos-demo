@@ -1,0 +1,28 @@
+{
+  "__version__": "3.0.7",
+  "builder": {
+    "options": {
+      "web-desktop": {
+        "configID": "7c7356",
+        "services": []
+      }
+    },
+    "taskOptionsMap": {
+      "1695314684225": {
+        "configID": "7c7356",
+        "services": []
+      },
+      "1695315066331": {
+        "configID": "7c7356",
+        "services": [],
+        "__version__": "3.0.7"
+      }
+    },
+    "__version__": "1.3.7"
+  },
+  "builder-options": {
+    "configID": "7c7356",
+    "services": [],
+    "__version__": "3.0.7"
+  }
+}

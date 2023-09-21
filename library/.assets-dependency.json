@@ -1,0 +1,69 @@
+{
+  "uuid": {
+    "/Users/sunjia/project/cocos/NewProject_1/assets/material/hdcSky.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/assets/material/plane.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/assets/material/seafloor.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/assets/material/shield.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/assets/material/soldier.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/assets/material/stone.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/assets/material/tree.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/assets/model/helloWorld/grass/grass.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/assets/material/hdcSky.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/assets/material/plane.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/assets/material/seafloor.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/assets/material/shield.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/assets/material/soldier.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/assets/material/stone.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/assets/material/tree.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/grass/grass.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ]
+  },
+  "path": {
+    "/Users/sunjia/project/cocos/NewProject_1/assets/model/helloWorld/islands.FBX@2df3a": [
+      "/Users/sunjia/project/cocos/NewProject_1/assets/model/helloWorld/seafloor.jpg"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/assets/model/helloWorld/soldier.FBX@f3caa": [
+      "/Users/sunjia/project/cocos/NewProject_1/assets/model/helloWorld/soldier.png"
+    ],
+    "/Users/sunjia/project/cocos/NewProject_1/assets/model/helloWorld/grass/grass.FBX@9787f": [
+      "/Users/sunjia/project/cocos/NewProject_1/assets/model/helloWorld/grass/grass.png"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/grass/grass.FBX@9787f": [
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/grass/grass.png"
+    ],
+    "/Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/islands.FBX@2df3a": [
+      "/Users/sunjia/project/cocos-test/cocos-demo/assets/model/helloWorld/seafloor.jpg"
+    ]
+  }
+}
